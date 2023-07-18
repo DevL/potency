@@ -42,8 +42,15 @@ The more aspects a magical skill encompasses, the more versatile and hence power
 | Portation     | Transfer [potential](../Rolling%20Dice/Potential.md)       | Telepathy                   | Teleportation             |   
 | Sunderance    | Hinder ([malus dice](../Rolling%20Dice/Malus%20Dice.md))      | Cause mental damage         | Cause physical damage     |   
    
+### Assigning Aspects   
+Knowing aspects of magic is not enough to wield them. One or more [magical skills](../Skills/Magical%20Skills.md) are required to put theory into practice. Moreover, a single [magical skill](../Skills/Magical%20Skills.md) is not enough to master to put all the various aspects into use. A known aspect can be assigned to one or more [magical skills](../Skills/Magical%20Skills.md), enabling those skills to be used to cast spells requiring the aspect in question. You can only assign as many aspects to a single [magical skill](../Skills/Magical%20Skills.md) as the [skill level](../Skills/Skill%20Level.md) in that skill.   
+   
+> The part-charlatan, part-medium _Erasmus_, has some training in the arts of the mind. As such he has assigned the aspects _cognition_, _formation_, and _portation_ to his magical skill _divination_. He has only skill level 3 in _divination_, so no further aspects can be assigned or used with that skill. However, he has started to dabble in the darker arts or inflicting pain with his will. He has gained 2 levels in the magical skill _mindwar_ and can thus assign the aspects _sunderance_ and _cognition_ to it.   
+   
+> Design sidebar: This is done in order to require and encourage those wishing to master magic to learn multiple forms of magic. If a player wants their character to be a master of the elements, having a magical skill called _elemental magic_ and raising it to level 5 is _still_ not enough to become a fully fledged archmage as additional skills need to be trained to make use of illusions and fate-weaving.    
+   
 ### Combining Aspects   
-Spells can be made to require various levels of the aspects in order to be available to the actor to cast. For example, creating an illusion of a fierce warrior might only require the _obfuscation_ aspect, but making the illusory warrior capable of hurting those that are fooled by the illusion might also require a the _sunderance_ aspect. The same goes for a life stealing spell which could combine the aspects _conduction_ and _sunderance_ to both cause fatigue to a target and transfer some of its potential to the caster.     
+Spells can be made to require various levels of the aspects in order to be available to the actor to cast. For example, creating an illusion of a fierce warrior might only require the _manifestation_ and _essence_ aspects, but making the illusory warrior capable of hurting those that are fooled by the illusion might also require a the _sunderance_ aspect. The same goes for a life stealing spell which could combine the aspects _essence_, _portation_, and _sunderance_ to both cause fatigue to a target and transfer some of its potential to the caster.   
    
 > The _Kyreenian Sword School_ teaches a form of magic to its students called _Sword Dancing_. Its practitioners can enhance their blade's strikes and parries (_formation of agency_), move more swiftly across the battlefield (_portation of essence_), and make devastating melee and ranged attacks (_sunderance of essence_).   
    
@@ -52,7 +59,6 @@ Spells can be made to require various levels of the aspects in order to be avail
 > Meister Xax, another member of the _Learned's Guild_ is not only a self-proclaimed great architect and master builder, but also a master of earth magic. He can encase an object in a protective crust (_formation of agency_), move the earth aside (_portation of essence_), and even shake the ground when enraged (_sunderance of essence_).   
    
 ## Character Point Cost of Magic and Aspects   
-   
 Magical skills are acquired at the same cost as mundane skills. However, in order to cast spells, it is necessary to understand the aspect or aspects involved in a given spell. For each level taken in a magical skill, it is possible to acquire an aspect for 5 character points.   
    
 > A level 2 _Kyreenian Sword Dancer_ could acquire _agency_ and _formation_ for 10 points after having spent 3 points on the magical skill. This is 13 points in total for some minor boosts. Advancing to level 3 (+3 points) and grabbing _sunderance_ (+5 points) makes it a total of 21 character points for some moderately useful effects.   
