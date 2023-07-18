@@ -1,0 +1,4 @@
+---
+alias: wild die
+---
+   
