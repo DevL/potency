@@ -16,11 +16,11 @@ When using magic, you have learnt to be wary of and avoid magical backlash. When
    
 > Alexander felt how his spell faltered and instantly braced against the ensuing backlash. Through many harsh lessons, he had learnt to dodge at least some of the misfiring potential.   
    
-## Deadeye (8)   
+## Deadly Accuracy (8)   
 _Requires perception 3 and ranged combat 3._   
 With pinpoint accuracy, your missiles always seem to hit where it hurts the most. You may spend 1P to increase your physical damage caused by ranged weapons with 1B.   
    
-> Aun the minotaur was a peaceful man, always eager to use his extensive skills of healing. However, when he had no choice but to resort to violence, his innate strength subsequently made his skills of healing all the more needed.   
+> Noomeron raised her bow, breathed out and hit the beast right between the eyes.   
    
 ## Dual Wielder (5)   
 _Requires melee combat 3._   
@@ -40,7 +40,7 @@ You are luckier than most. _Some mechanic rewarding additional Fortune Points go
 > TBD   
    
 ## Heavy Hitter (8)   
-_Requires exertion 3._   
+_Requires exertion 3 and melee combat 3._   
 Your strength makes your blows strike harder than most. You may spend 1P to increase your physical damage caused by melee weapons with 1B.   
    
 > Ever seen an enraged ogre swinging a tree trunk in your direction. Yes? Liar! You would be dead if you had!   
