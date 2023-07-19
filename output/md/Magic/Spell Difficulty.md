@@ -1,5 +1,5 @@
 ---
-{}
+alias: spell difficulty
 ---
    
 The difficulty to cast the spell.    

@@ -1,5 +1,5 @@
 ---
-{}
+alias: spell dice
 ---
    
 The [Potential](../Rolling%20Dice/Potential.md) required to cast the spell. Limits the amount of potential that can be counted towards composing the roll for the magical skill used to cast the spell.   

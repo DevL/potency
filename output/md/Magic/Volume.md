@@ -1,5 +1,5 @@
 ---
-{}
+aliases: volume, spell volume
 ---
    
 How much the spell effects. Measured on a scale of 1-5 corresponding to target, small, medium, large, and huge.   
