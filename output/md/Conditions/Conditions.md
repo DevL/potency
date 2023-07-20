@@ -3,22 +3,22 @@ aliases: condition, conditions
 ---
    
 ## Bruised   
-Reduces [Potential](../Rolling%20Dice/Potential.md). Removed after a [Recovery](../Conditions/Recovery.md) period.   
+Reduces [potential](../Rolling%20Dice/Potential.md). Removed after a [recovery](../Conditions/Recovery.md) period.   
    
 ## Encumbered   
-Reduces [Potential](../Rolling%20Dice/Potential.md).   
+Reduces [potential](../Rolling%20Dice/Potential.md).   
    
 ## Fatigued   
-Reduces [Potential](../Rolling%20Dice/Potential.md). Removed after a [Recovery](../Conditions/Recovery.md) period.   
+Reduces [potential](../Rolling%20Dice/Potential.md). Removed after a [recovery](../Conditions/Recovery.md) period.   
    
 ## Hindrance   
-Imposes malus on *movement*.   
+Imposes [malus dice](../Rolling%20Dice/Malus%20Dice.md) on *movement*.   
    
 ## Noisy   
-Imposes malus on _stealth_.   
+Imposes [malus dice](../Rolling%20Dice/Malus%20Dice.md) on _stealth_.   
    
 ## Stunned   
-Reduces [Potential](../Rolling%20Dice/Potential.md). Removed after a [quick recovery](/not_created.md) period.   
+Reduces [potential](../Rolling%20Dice/Potential.md). Removed after a [quick recovery](../Conditions/Recovery.md) period.   
    
 ## Wounded   
-Reduces [Potential](../Rolling%20Dice/Potential.md). Requires treatment. Removed after a [longer recovery](/not_created.md) period.
+Reduces [potential](../Rolling%20Dice/Potential.md). Requires [treatment](../Conditions/Treatment.md) and a [longer recovery](../Conditions/Recovery.md) period to be removed.

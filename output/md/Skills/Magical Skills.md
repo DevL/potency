@@ -47,7 +47,10 @@ Knowing aspects of magic is not enough to wield them. One or more [magical skill
    
 > The part-charlatan, part-medium _Erasmus_, has some training in the arts of the mind. As such he has assigned the aspects _cognition_, _formation_, and _portation_ to his magical skill _divination_. He has only skill level 3 in _divination_, so no further aspects can be assigned or used with that skill. However, he has started to dabble in the darker arts or inflicting pain with his will. He has gained 2 levels in the magical skill _mindwar_ and can thus assign the aspects _sunderance_ and _cognition_ to it.   
    
-> Design sidebar: This is done in order to require and encourage those wishing to master magic to learn multiple forms of magic. If a player wants their character to be a master of the elements, having a magical skill called _elemental magic_ and raising it to level 5 is _still_ not enough to become a fully fledged archmage as additional skills need to be trained to make use of illusions and fate-weaving.    
+```
+This is done in order to require and encourage those wishing to master magic to learn multiple forms of magic. If a player wants their character to be a master of the elements, having a magical skill called _elemental magic_ and raising it to level 5 is _still_ not enough to become a fully fledged archmage as additional skills need to be trained to make use of illusions and fate-weaving.
+```
+   
    
 ### Combining Aspects   
 Spells can be made to require various levels of the aspects in order to be available to the actor to cast. For example, creating an illusion of a fierce warrior might only require the _manifestation_ and _essence_ aspects, but making the illusory warrior capable of hurting those that are fooled by the illusion might also require a the _sunderance_ aspect. The same goes for a life stealing spell which could combine the aspects _essence_, _portation_, and _sunderance_ to both cause fatigue to a target and transfer some of its potential to the caster.   
