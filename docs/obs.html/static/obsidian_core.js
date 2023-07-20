@@ -10,7 +10,7 @@ var CONFIGURED_HTML_URL_PREFIX = "/potency";
 var RELATIVE_PATHS = 0;
 var documentation_mode = 1;
 var tab_mode = !no_tab_mode;
-var gzip_hash = '249210921647922533183611246975546392237'                       // used to check whether the localStorage data is stale
+var gzip_hash = '110164072415523000680809201542295520669'                       // used to check whether the localStorage data is stale
 
 // global cache
 var fn_cache_ls_available = null;
