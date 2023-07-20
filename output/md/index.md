@@ -26,9 +26,14 @@
 	* [Magical Skills](./Skills/Magical%20Skills.md)   
 * [Aid](./Rolling%20Dice/Aid.md)   
 * Character Options   
+	* [Creating a Character](./Character%20Options/Creating%20a%20Character.md)   
+		* [Level of Play](./Character%20Options/Level%20of%20Play.md)   
+		* [Careers](./Character%20Options/Careers.md)   
 	* [Foci](./Character%20Options/Foci.md)   
 	* [Talents](./Character%20Options/Talents.md)   
 	* [Traits](./Character%20Options/Traits.md)   
+	*  [Character Points](./Character%20Options/Character%20Points.md)   
+	* [Fortune Points](./Character%20Options/Fortune%20Points.md)   
 * [Arms & Armour](./Arms%20%26%20Armour/Arms%20%26%20Armour.md)   
 	* Weapons   
 		* [Melee Weapons](./Arms%20%26%20Armour/Melee%20Weapons.md)   

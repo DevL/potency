@@ -5,7 +5,7 @@
         <head>
                 <!-- Page information -->
                 <meta charset="UTF-8" />
-                <meta name="node_id" content="movement">
+                <meta name="node_id" content="creating a character">
                 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
                 <link rel="shortcut icon" href="/potency/favicon.ico" />
 
@@ -47,7 +47,7 @@
 
                 <!-- Onload tweaks -->
                 <script>
-                        const CURRENT_NODE = 'movement';
+                        const CURRENT_NODE = 'creating a character';
                         const HTML_URL_PREFIX = '/potency';
                         const PAGE_DEPTH = 1;
                 </script>
@@ -171,7 +171,7 @@
             }
         </script>
                                     <div class="graph_header_div requires_js">
-            <a id="graph_link" class="system-link" href="/potency/obs.html/graph/index.html?node=movement" title="Open fullpage Graph">
+            <a id="graph_link" class="system-link" href="/potency/obs.html/graph/index.html?node=creating a character" title="Open fullpage Graph">
                     <img class="graph_header_div_svg" src = "/potency/obs.html/static/graph.svg" alt="Open fullpage Graph" style="margin: 2px; width: 17px;"/>
             </a>
         </div>
@@ -219,11 +219,11 @@
 	</ul>
 </div>
 <button id="folder-2" class="dir-button" onclick="toggle_dir(this.id)">Character Options</button>
-<div id="folder-container-2" class="dir-container requires_js " path="/potency/Character Options">
+<div id="folder-container-2" class="dir-container requires_js active" path="/potency/Character Options">
 	<ul class="dir-list">
 		<li><a class="" href="/potency/Character Options/Careers.html"  >Careers</a></li>
 		<li><a class="" href="/potency/Character Options/Character Points.html"  >Character Points</a></li>
-		<li><a class="" href="/potency/Character Options/Creating a Character.html"  >Creating a Character</a></li>
+		<li><a class="active" href="/potency/Character Options/Creating a Character.html"  >Creating a Character</a></li>
 		<li><a class="" href="/potency/Character Options/Foci.html"  >Foci</a></li>
 		<li><a class="" href="/potency/Character Options/Fortune Points.html"  >Fortune Points</a></li>
 		<li><a class="" href="/potency/Character Options/Level of Play.html"  >Level of Play</a></li>
@@ -275,9 +275,9 @@
 	</ul>
 </div>
 <button id="folder-7" class="dir-button" onclick="toggle_dir(this.id)">Movement</button>
-<div id="folder-container-7" class="dir-container requires_js active" path="/potency/Movement">
+<div id="folder-container-7" class="dir-container requires_js " path="/potency/Movement">
 	<ul class="dir-list">
-		<li><a class="active" href="/potency/Movement/Movement.html"  >Movement</a></li>
+		<li><a class="" href="/potency/Movement/Movement.html"  >Movement</a></li>
 	</ul>
 </div>
 <button id="folder-8" class="dir-button" onclick="toggle_dir(this.id)">Rolling Dice</button>
@@ -315,8 +315,65 @@
     </div>
 </div>
                         <div class="container">
-                                <embeddedtitle>Movement</embeddedtitle>
-<div class="content"></div>
+                                <embeddedtitle>Creating a Character</embeddedtitle>
+<div class="content"><p>It all begins with coming up with a character concept. However, it is often very helpful to ask <em>how</em> a character became they way they are, and as such, <em>Potency</em> uses the concept of <a href="/potency/Character%20Options/Careers.html">careers</a> to guide the character creation.   </p>
+<h2 id="determine-starting-capabilities">Determine Starting Capabilities</h2>
+<p>Depending on the <a href="/potency/Character%20Options/Level%20of%20Play.html">level of play</a>, consult the table below for the amount of <a href="/potency/Rolling%20Dice/Potential.html">potential</a>, <a href="/potency/Character%20Options/Character%20Points.html">character points</a>, number of <a href="/potency/Character%20Options/Careers.html">careers</a>, relevant <a href="/potency/Skills/Skills.html">skill</a> caps, and the number of free <a href="/potency/Character%20Options/Foci.html">foci</a> or <a href="/potency/Skills/Magical%20Skills.html">magical aspects</a> granted.   </p>
+<table>
+<thead>
+<tr>
+<th style="text-align: left;">Level of Play</th>
+<th style="text-align: right;">Potential</th>
+<th style="text-align: right;">Character Points</th>
+<th style="text-align: right;">Careers</th>
+<th style="text-align: right;">Mundane Skill Cap</th>
+<th style="text-align: right;">Magical Skill Cap</th>
+<th style="text-align: right;">Free Foci or Magical Aspects</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: left;">Beginner</td>
+<td style="text-align: right;">10</td>
+<td style="text-align: right;">125</td>
+<td style="text-align: right;">2</td>
+<td style="text-align: right;">4</td>
+<td style="text-align: right;">3</td>
+<td style="text-align: right;">2</td>
+</tr>
+<tr>
+<td style="text-align: left;">Adventurer</td>
+<td style="text-align: right;">12</td>
+<td style="text-align: right;">150</td>
+<td style="text-align: right;">3</td>
+<td style="text-align: right;">5</td>
+<td style="text-align: right;">4</td>
+<td style="text-align: right;">3</td>
+</tr>
+<tr>
+<td style="text-align: left;">Veteran</td>
+<td style="text-align: right;">15</td>
+<td style="text-align: right;">200</td>
+<td style="text-align: right;">5</td>
+<td style="text-align: right;">5</td>
+<td style="text-align: right;">5</td>
+<td style="text-align: right;">5</td>
+</tr>
+<tr>
+<td style="text-align: left;">Heroic</td>
+<td style="text-align: right;">20</td>
+<td style="text-align: right;">250</td>
+<td style="text-align: right;">7</td>
+<td style="text-align: right;">5</td>
+<td style="text-align: right;">5</td>
+<td style="text-align: right;">7</td>
+</tr>
+</tbody>
+</table>
+<h2 id="spending-character-points">Spending Character Points</h2>
+<p>In accordance with what is allowed by your <a href="/potency/Character%20Options/Careers.html">careers</a>, use your <a href="/potency/Character%20Options/Character%20Points.html">character points</a> to increase <a href="/potency/Skills/Skills.html">mundane skills</a>, acquire and raise <a href="/potency/Skills/Magical%20Skills.html">magical skills</a>, and obtain <a href="/potency/Character%20Options/Foci.html">foci</a> and <a href="/potency/Skills/Magical%20Skills.html">magical aspects</a>. You may also acquire various <a href="/potency/Character%20Options/Traits.html">traits</a> as long as you fulfil the prerequisites for a given trait.   </p>
+<h2 id="select-arms-armour">Select arms &amp; armour</h2>
+<p>Unless otherwise stated by the gamemaster, there are no general limitations on what equipment a character can have when they begin their adventures. Make sure to have a conversation with your gamemaster though - especially if you wish to have something magical or very expensive.</p></div>
 <div class="note-footer">
 <div class="backlinks">
 <h2>Backlinks</h2>
@@ -331,13 +388,13 @@
 
 </div>
 <div class="graph requires_js ">
-    <div id="A159564221651970637878879391576424162399{level}" class="graph_div"></div>
+    <div id="A328909936233887039426990307680971758331{level}" class="graph_div"></div>
     
     <div class="graph-button-row" style="display:flex;">
-        <button class="graph_button graph_show_button" id="B159564221651970637878879391576424162399{level}" level="{level}" note_temp_id="159564221651970637878879391576424162399" onclick="window.ObsHtmlGraph.run(this, '159564221651970637878879391576424162399', 'movement');">
+        <button class="graph_button graph_show_button" id="B328909936233887039426990307680971758331{level}" level="{level}" note_temp_id="328909936233887039426990307680971758331" onclick="window.ObsHtmlGraph.run(this, '328909936233887039426990307680971758331', 'creating a character');">
             Show Graph
         </button>
-        <button class="graph_button graph_type_button" id="C159564221651970637878879391576424162399{level}" style="flex:1" onclick="window.ObsHtmlGraph.switch_graph_type(this);">
+        <button class="graph_button graph_type_button" id="C328909936233887039426990307680971758331{level}" style="flex:1" onclick="window.ObsHtmlGraph.switch_graph_type(this);">
             2D
         </button>
     </div>
