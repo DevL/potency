@@ -51,12 +51,12 @@
 	* [Forced Passive Value](./Rolling%20Dice/Forced%20Passive%20Value.md)   
 * [Movement](./Movement/Movement.md) (using the skill *movement*)   
 * [Magic](./Magic/Magic.md)   
-	* [Effect](./Magic/Effect.md)   
-	* [Range](./Magic/Range.md)   
-	* [Volume](./Magic/Volume.md)   
-	* [Spell Dice](./Magic/Spell%20Dice.md)   
-	* [Spell Difficulty](./Magic/Spell%20Difficulty.md)   
-	* [Sustain](./Magic/Sustain.md)   
+	* [Effect](./Magic/Components/Effect.md)   
+	* [Range](./Magic/Components/Range.md)   
+	* [Volume](./Magic/Components/Volume.md)   
+	* [Spell Dice](./Magic/Components/Spell%20Dice.md)   
+	* [Spell Difficulty](./Magic/Components/Spell%20Difficulty.md)   
+	* [Sustain](./Magic/Components/Sustain.md)   
 * Example Characters   
 	* [Hilda of Kullsala (Fighter)](./Example%20Characters/Hilda%20of%20Kullsala%20%28Fighter%29.md)   
 	* Pirate   

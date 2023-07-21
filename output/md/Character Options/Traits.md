@@ -49,7 +49,7 @@ Your strength makes your blows strike harder than most. You may spend 1P to incr
 You know not of the magical arts and aspects. You know not how to wield magic. You just do it.   
 You gain the unique [magical skill](../Skills/Magical%20Skills.md) _Innate Magic_ at [skill level](../Skills/Skill%20Level.md) 3. You cannot train this skill further.   
    
-Create a spell that use no more than 3 [magical aspects](../Skills/Magical%20Skills.md), no more than 9 [spell dice](../Magic/Spell%20Dice.md), and does not require a [skill level](../Skills/Skill%20Level.md) higher than 3. You do not need to know the aspects involved and can cast this spell using _Innate Magic_.   
+Create a spell that use no more than 3 [magical aspects](../Skills/Magical%20Skills.md), no more than 9 [spell dice](../Magic/Components/Spell%20Dice.md), and does not require a [skill level](../Skills/Skill%20Level.md) higher than 3. You do not need to know the aspects involved and can cast this spell using _Innate Magic_.   
    
 > Not everyone is this world learns magic by studying it. Some are born with it, though they might only master a fraction of the arts. Ever noticed how the village healer seems to be able to just lay her hands on a wound and concentrate to close it? If that is not some form of innate magic at work, I don't know what it is!   
    
