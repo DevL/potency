@@ -36,7 +36,7 @@
 	* [Foci](./Character%20Options/Foci.md)   
 	* [Talents](./Character%20Options/Talents.md)   
 	* [Traits](./Character%20Options/Traits.md)   
-	*  [Character Points](./Character%20Options/Character%20Points.md)   
+	* [Character Points](./Character%20Options/Character%20Points.md)   
 	* [Fortune Points](./Character%20Options/Fortune%20Points.md)   
 * [Arms & Armour](./Arms%20%26%20Armour/Arms%20%26%20Armour.md)   
 	* Weapons   
@@ -51,12 +51,14 @@
 	* [Forced Passive Value](./Rolling%20Dice/Forced%20Passive%20Value.md)   
 * [Movement](./Movement/Movement.md) (using the skill *movement*)   
 * [Magic](./Magic/Magic.md)   
-	* [Effect](./Magic/Components/Effect.md)   
-	* [Range](./Magic/Components/Range.md)   
-	* [Volume](./Magic/Components/Volume.md)   
-	* [Spell Dice](./Magic/Components/Spell%20Dice.md)   
-	* [Spell Difficulty](./Magic/Components/Spell%20Difficulty.md)   
-	* [Sustain](./Magic/Components/Sustain.md)   
+	* [Forms of Magic](./Magic/Forms%20of%20Magic.md)   
+	* Components   
+		* [Effect](./Magic/Components/Effect.md)   
+		* [Range](./Magic/Components/Range.md)   
+		* [Volume](./Magic/Components/Volume.md)   
+		* [Spell Dice](./Magic/Components/Spell%20Dice.md)   
+		* [Spell Difficulty](./Magic/Components/Spell%20Difficulty.md)   
+		* [Sustain](./Magic/Components/Sustain.md)   
 * Example Characters   
 	* [Hilda of Kullsala (Fighter)](./Example%20Characters/Hilda%20of%20Kullsala%20%28Fighter%29.md)   
 	* Pirate   

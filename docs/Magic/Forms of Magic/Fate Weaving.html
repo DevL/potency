@@ -5,7 +5,7 @@
         <head>
                 <!-- Page information -->
                 <meta charset="UTF-8" />
-                <meta name="node_id" content="malus dice">
+                <meta name="node_id" content="fate weaving">
                 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
                 <link rel="shortcut icon" href="/potency/favicon.ico" />
 
@@ -47,9 +47,9 @@
 
                 <!-- Onload tweaks -->
                 <script>
-                        const CURRENT_NODE = 'malus dice';
+                        const CURRENT_NODE = 'fate weaving';
                         const HTML_URL_PREFIX = '/potency';
-                        const PAGE_DEPTH = 1;
+                        const PAGE_DEPTH = 2;
                 </script>
         </head>
 
@@ -171,7 +171,7 @@
             }
         </script>
                                     <div class="graph_header_div requires_js">
-            <a id="graph_link" class="system-link" href="/potency/obs.html/graph/index.html?node=malus dice" title="Open fullpage Graph">
+            <a id="graph_link" class="system-link" href="/potency/obs.html/graph/index.html?node=fate weaving" title="Open fullpage Graph">
                     <img class="graph_header_div_svg" src = "/potency/obs.html/static/graph.svg" alt="Open fullpage Graph" style="margin: 2px; width: 17px;"/>
             </a>
         </div>
@@ -263,7 +263,7 @@
 	</ul>
 </div>
 <button id="folder-6" class="dir-button" onclick="toggle_dir(this.id)">Magic</button>
-<div id="folder-container-6" class="dir-container requires_js " path="/potency/Magic">
+<div id="folder-container-6" class="dir-container requires_js active" path="/potency/Magic">
 	<button id="folder-7" class="dir-button" onclick="toggle_dir(this.id)">Components</button>
 	<div id="folder-container-7" class="dir-container requires_js " path="/potency/Magic/Components">
 		<ul class="dir-list">
@@ -276,12 +276,12 @@
 		</ul>
 	</div>
 	<button id="folder-8" class="dir-button" onclick="toggle_dir(this.id)">Forms of Magic</button>
-	<div id="folder-container-8" class="dir-container requires_js " path="/potency/Magic/Forms of Magic">
+	<div id="folder-container-8" class="dir-container requires_js active" path="/potency/Magic/Forms of Magic">
 		<ul class="dir-list">
 			<li><a class="" href="/potency/Magic/Forms of Magic/Conjuration.html"  >Conjuration</a></li>
 			<li><a class="" href="/potency/Magic/Forms of Magic/Divination.html"  >Divination</a></li>
 			<li><a class="" href="/potency/Magic/Forms of Magic/Elemental Magic.html"  >Elemental Magic</a></li>
-			<li><a class="" href="/potency/Magic/Forms of Magic/Fate Weaving.html"  >Fate Weaving</a></li>
+			<li><a class="active" href="/potency/Magic/Forms of Magic/Fate Weaving.html"  >Fate Weaving</a></li>
 		</ul>
 	</div>
 	<ul class="dir-list">
@@ -296,7 +296,7 @@
 	</ul>
 </div>
 <button id="folder-10" class="dir-button" onclick="toggle_dir(this.id)">Rolling Dice</button>
-<div id="folder-container-10" class="dir-container requires_js active" path="/potency/Rolling Dice">
+<div id="folder-container-10" class="dir-container requires_js " path="/potency/Rolling Dice">
 	<ul class="dir-list">
 		<li><a class="" href="/potency/Rolling Dice/Aid.html"  >Aid</a></li>
 		<li><a class="" href="/potency/Rolling Dice/Bonus Dice.html"  >Bonus Dice</a></li>
@@ -304,7 +304,7 @@
 		<li><a class="" href="/potency/Rolling Dice/Degree of Failure.html"  >Degree of Failure</a></li>
 		<li><a class="" href="/potency/Rolling Dice/Degree of Success.html"  >Degree of Success</a></li>
 		<li><a class="" href="/potency/Rolling Dice/Forced Passive Value.html"  >Forced Passive Value</a></li>
-		<li><a class="active" href="/potency/Rolling Dice/Malus Dice.html"  >Malus Dice</a></li>
+		<li><a class="" href="/potency/Rolling Dice/Malus Dice.html"  >Malus Dice</a></li>
 		<li><a class="" href="/potency/Rolling Dice/Opposed Rolls.html"  >Opposed Rolls</a></li>
 		<li><a class="" href="/potency/Rolling Dice/Passive Value.html"  >Passive Value</a></li>
 		<li><a class="" href="/potency/Rolling Dice/Potential.html"  >Potential</a></li>
@@ -331,24 +331,13 @@
     </div>
 </div>
                         <div class="container">
-                                <embeddedtitle>Malus Dice</embeddedtitle>
-<div class="content"><p>Depending on the situation, <em>malus dice</em> can be subtracted from a roll. At most 3 <em>malus dice</em> can be affect a roll though no matter the number of <em>malus dice</em>, the <a href="/potency/Rolling%20Dice/Wild%20Die.html">wild die</a> cannot be eliminated. Indicated as a number followed by the letter ´M´, e.g. 3M.   </p>
-<div class="lang-general">
-
-<div class="codehilite"><pre><span></span><code><span class="nv">Malus</span><span class="w"> </span><span class="nv">dice</span><span class="w"> </span><span class="nv">represents</span><span class="w"> </span><span class="nv">any</span><span class="w"> </span><span class="nv">form</span><span class="w"> </span><span class="nv">of</span><span class="w"> </span><span class="nv">hindrance</span><span class="w"> </span><span class="nv">that</span><span class="w"> </span><span class="nv">the</span><span class="w"> </span><span class="nv">player</span><span class="err">&#39;s encounter when performing a task. It is an alternative to raising the difficulty of a task. For example, freeing oneself when bound by ropes might be considered a difficult task with a difficulty of 18. If the actor attempting to do this _also_ has been wounded in the shoulder, things might be harder. Instead of raising the difficulty, give the actor a malus dice or two to represent this extra hindrance.</span>
-</code></pre></div>
-
-
-</div></div>
+                                <embeddedtitle>Fate Weaving</embeddedtitle>
+<div class="content"><p><strong>Aspects:</strong> Agency, Formation, Manifestation, Portation, Sunderance</p></div>
 <div class="note-footer">
 <div class="backlinks">
 <h2>Backlinks</h2>
 <ul>
-	<li><a class="backlink" href="/potency/index.html">index</a></li>
-	<li><a class="backlink" href="/potency/Conditions/Conditions.html">conditions</a></li>
-	<li><a class="backlink" href="/potency/Rolling Dice/Passive Value.html">passive value</a></li>
-	<li><a class="backlink" href="/potency/Skills/Magical Skills.html">magical skills</a></li>
-	<li><a class="backlink" href="/potency/Magic/Components/Effect.html">effect</a></li>
+	<li><a class="backlink" href="/potency/Magic/Forms of Magic.html">forms of magic</a></li>
 </ul>
 </div>
 
@@ -358,13 +347,13 @@
 
 </div>
 <div class="graph requires_js ">
-    <div id="A53533076934544435355980361667328479276{level}" class="graph_div"></div>
+    <div id="A60211554934957232453052494671993071570{level}" class="graph_div"></div>
     
     <div class="graph-button-row" style="display:flex;">
-        <button class="graph_button graph_show_button" id="B53533076934544435355980361667328479276{level}" level="{level}" note_temp_id="53533076934544435355980361667328479276" onclick="window.ObsHtmlGraph.run(this, '53533076934544435355980361667328479276', 'malus dice');">
+        <button class="graph_button graph_show_button" id="B60211554934957232453052494671993071570{level}" level="{level}" note_temp_id="60211554934957232453052494671993071570" onclick="window.ObsHtmlGraph.run(this, '60211554934957232453052494671993071570', 'fate weaving');">
             Show Graph
         </button>
-        <button class="graph_button graph_type_button" id="C53533076934544435355980361667328479276{level}" style="flex:1" onclick="window.ObsHtmlGraph.switch_graph_type(this);">
+        <button class="graph_button graph_type_button" id="C60211554934957232453052494671993071570{level}" style="flex:1" onclick="window.ObsHtmlGraph.switch_graph_type(this);">
             2D
         </button>
     </div>
