@@ -16,4 +16,11 @@ Combining _sunderance_ with _essence_ allows physical damage to be dealt to the 
 | Minor (2)   | 3D                                 |   
 | Medium (3)  | 4D                                 |   
 | Major (4)   | 5D                                 |   
-| Massive (5) | 6D                                 |
+| Massive (5) | 6D                                 |   
+    
+   
+### Shape Element (E, F)   
+   
+### Shift Element (E, P)   
+   
+### Wall of Fire (E, F, M)

@@ -13,6 +13,6 @@ An even more reduced form of conjuration is practiced by illusionists, that conj
    
 ## Example Spells   
    
-### Summon Being (A, C, E, F, M)   
+### Animate Dead (A, C, F, M)   
    
-### Animate Dead (A, C, F, M)
+### Summon Being (A, C, E, F, M)
