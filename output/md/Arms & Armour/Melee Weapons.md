@@ -11,7 +11,7 @@ _Melee weapons_ are either _light_, _medium_, or _heavy_. In general, _light_ we
 | Medium |  1H  | Melee Combat     |      2B      | Arming Sword,               |   
 | Medium |  2H  | Melee Combat + 1 |      2B      | Longsword, Spear            |   
 | Heavy  |  1H  | Melee Combat     |      3B      | Warhammer                   |   
-| Heavy  |  2H  | Melee Combat + 1 |      3B      | Halberd, Greatsword, Glave  |   
+| Heavy  |  2H  | Melee Combat + 1 |      3B      | Halberd, Greatsword, Glaive |   
    
 | Melee Combat | 1H Light | 2H Light/1H Medium | 2H Medium/1H Heavy | 2H Heavy |   
 |:------------:|:--------:|:------------------:|:------------------:|:--------:|   
