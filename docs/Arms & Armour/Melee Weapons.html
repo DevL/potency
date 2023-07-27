@@ -225,8 +225,7 @@
 		<li><a class="" href="/potency/Character Options/Character Points.html"  >Character Points</a></li>
 		<li><a class="" href="/potency/Character Options/Creating a Character.html"  >Creating a Character</a></li>
 		<li><a class="" href="/potency/Character Options/Foci.html"  >Foci</a></li>
-		<li><a class="" href="/potency/Character Options/Fortune Points.html"  >Fortune Points</a></li>
-		<li><a class="" href="/potency/Character Options/Level of Play.html"  >Level of Play</a></li>
+		<li><a class="" href="/potency/Character Options/Sapient Species.html"  >Sapient Species</a></li>
 		<li><a class="" href="/potency/Character Options/Talents.html"  >Talents</a></li>
 		<li><a class="" href="/potency/Character Options/Traits.html"  >Traits</a></li>
 	</ul>
@@ -238,6 +237,7 @@
 		<li><a class="" href="/potency/Conditions/Fatigue.html"  >Fatigue</a></li>
 		<li><a class="" href="/potency/Conditions/Recovery.html"  >Recovery</a></li>
 		<li><a class="" href="/potency/Conditions/Treatment.html"  >Treatment</a></li>
+		<li><a class="" href="/potency/Conditions/Wound.html"  >Wound</a></li>
 	</ul>
 </div>
 <button id="folder-4" class="dir-button" onclick="toggle_dir(this.id)">Example Characters</button>
@@ -298,25 +298,28 @@
 <button id="folder-10" class="dir-button" onclick="toggle_dir(this.id)">Rolling Dice</button>
 <div id="folder-container-10" class="dir-container requires_js " path="/potency/Rolling Dice">
 	<ul class="dir-list">
+		<li><a class="" href="/potency/Rolling Dice/Active vs Passive Rolls.html"  >Active vs Passive Rolls</a></li>
 		<li><a class="" href="/potency/Rolling Dice/Aid.html"  >Aid</a></li>
 		<li><a class="" href="/potency/Rolling Dice/Bonus Dice.html"  >Bonus Dice</a></li>
 		<li><a class="" href="/potency/Rolling Dice/Composing a Roll.html"  >Composing a Roll</a></li>
-		<li><a class="" href="/potency/Rolling Dice/Degree of Failure.html"  >Degree of Failure</a></li>
-		<li><a class="" href="/potency/Rolling Dice/Degree of Success.html"  >Degree of Success</a></li>
 		<li><a class="" href="/potency/Rolling Dice/Forced Passive Value.html"  >Forced Passive Value</a></li>
+		<li><a class="" href="/potency/Rolling Dice/Fortune Points.html"  >Fortune Points</a></li>
 		<li><a class="" href="/potency/Rolling Dice/Malus Dice.html"  >Malus Dice</a></li>
+		<li><a class="" href="/potency/Rolling Dice/Massive Failure.html"  >Massive Failure</a></li>
+		<li><a class="" href="/potency/Rolling Dice/Massive Success.html"  >Massive Success</a></li>
 		<li><a class="" href="/potency/Rolling Dice/Opposed Rolls.html"  >Opposed Rolls</a></li>
 		<li><a class="" href="/potency/Rolling Dice/Passive Value.html"  >Passive Value</a></li>
 		<li><a class="" href="/potency/Rolling Dice/Potential.html"  >Potential</a></li>
+		<li><a class="" href="/potency/Rolling Dice/Roll Results.html"  >Roll Results</a></li>
 		<li><a class="" href="/potency/Rolling Dice/Wild Die.html"  >Wild Die</a></li>
 	</ul>
 </div>
 <button id="folder-11" class="dir-button" onclick="toggle_dir(this.id)">Skills</button>
 <div id="folder-container-11" class="dir-container requires_js " path="/potency/Skills">
 	<ul class="dir-list">
+		<li><a class="" href="/potency/Skills/Aspects of Magic.html"  >Aspects of Magic</a></li>
 		<li><a class="" href="/potency/Skills/Combat Skills.html"  >Combat Skills</a></li>
 		<li><a class="" href="/potency/Skills/Intellectual Skills.html"  >Intellectual Skills</a></li>
-		<li><a class="" href="/potency/Skills/Magical Skills.html"  >Magical Skills</a></li>
 		<li><a class="" href="/potency/Skills/Physical Skills.html"  >Physical Skills</a></li>
 		<li><a class="" href="/potency/Skills/Practical Skills.html"  >Practical Skills</a></li>
 		<li><a class="" href="/potency/Skills/Skill Level.html"  >Skill Level</a></li>
@@ -338,8 +341,8 @@
 <tr>
 <th style="text-align: left;">Type</th>
 <th style="text-align: center;">Grip</th>
-<th style="text-align: center;">Damage Level</th>
-<th style="text-align: center;">Damage</th>
+<th style="text-align: left;">Damage Level</th>
+<th style="text-align: center;">Damage Bonus</th>
 <th style="text-align: left;">Examples</th>
 </tr>
 </thead>
@@ -347,44 +350,92 @@
 <tr>
 <td style="text-align: left;">Light</td>
 <td style="text-align: center;">1H</td>
-<td style="text-align: center;">2</td>
-<td style="text-align: center;">3D</td>
+<td style="text-align: left;">Melee Combat</td>
+<td style="text-align: center;">1B</td>
 <td style="text-align: left;">Dagger, Handaxe, Shortsword</td>
 </tr>
 <tr>
 <td style="text-align: left;">Light</td>
 <td style="text-align: center;">2H</td>
-<td style="text-align: center;">3</td>
-<td style="text-align: center;">4D</td>
+<td style="text-align: left;">Melee Combat + 1</td>
+<td style="text-align: center;">1B</td>
 <td style="text-align: left;">Staff</td>
 </tr>
 <tr>
 <td style="text-align: left;">Medium</td>
 <td style="text-align: center;">1H</td>
-<td style="text-align: center;">3</td>
-<td style="text-align: center;">4D</td>
+<td style="text-align: left;">Melee Combat</td>
+<td style="text-align: center;">2B</td>
 <td style="text-align: left;">Arming Sword,</td>
 </tr>
 <tr>
 <td style="text-align: left;">Medium</td>
 <td style="text-align: center;">2H</td>
-<td style="text-align: center;">4</td>
-<td style="text-align: center;">5D</td>
+<td style="text-align: left;">Melee Combat + 1</td>
+<td style="text-align: center;">2B</td>
 <td style="text-align: left;">Longsword, Spear</td>
 </tr>
 <tr>
 <td style="text-align: left;">Heavy</td>
 <td style="text-align: center;">1H</td>
-<td style="text-align: center;">4</td>
-<td style="text-align: center;">5D</td>
+<td style="text-align: left;">Melee Combat</td>
+<td style="text-align: center;">3B</td>
 <td style="text-align: left;">Warhammer</td>
 </tr>
 <tr>
 <td style="text-align: left;">Heavy</td>
 <td style="text-align: center;">2H</td>
-<td style="text-align: center;">5</td>
-<td style="text-align: center;">6D</td>
+<td style="text-align: left;">Melee Combat + 1</td>
+<td style="text-align: center;">3B</td>
 <td style="text-align: left;">Halberd, Greatsword, Glave</td>
+</tr>
+</tbody>
+</table>
+<table>
+<thead>
+<tr>
+<th style="text-align: center;">Melee Combat</th>
+<th style="text-align: center;">1H Light</th>
+<th style="text-align: center;">2H Light/1H Medium</th>
+<th style="text-align: center;">2H Medium/1H Heavy</th>
+<th style="text-align: center;">2H Heavy</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: center;">1</td>
+<td style="text-align: center;">2D + 1B</td>
+<td style="text-align: center;">2D + 2B</td>
+<td style="text-align: center;">2D + 3B</td>
+<td style="text-align: center;">3D + 3B</td>
+</tr>
+<tr>
+<td style="text-align: center;">2</td>
+<td style="text-align: center;">3D + 1B</td>
+<td style="text-align: center;">3D + 2B</td>
+<td style="text-align: center;">3D + 3B</td>
+<td style="text-align: center;">4D + 3B</td>
+</tr>
+<tr>
+<td style="text-align: center;">3</td>
+<td style="text-align: center;">4D + 1B</td>
+<td style="text-align: center;">4D + 2B</td>
+<td style="text-align: center;">4D + 3B</td>
+<td style="text-align: center;">5D + 3B</td>
+</tr>
+<tr>
+<td style="text-align: center;">4</td>
+<td style="text-align: center;">5D + 1B</td>
+<td style="text-align: center;">5D + 2B</td>
+<td style="text-align: center;">5D + 3B</td>
+<td style="text-align: center;">6D + 3B</td>
+</tr>
+<tr>
+<td style="text-align: center;">5</td>
+<td style="text-align: center;">6D + 1B</td>
+<td style="text-align: center;">6D + 2B</td>
+<td style="text-align: center;">6D + 3B</td>
+<td style="text-align: center;">6D + 3B</td>
 </tr>
 </tbody>
 </table>
@@ -392,20 +443,29 @@
 <h3 id="one-handed">One-handed</h3>
 <p>The weapon makes it normal amount of damage. This allows the other hand to e.g. hold a <a href="/potency/Arms%20%26%20Armour/Shields.html">shield</a>.   </p>
 <h3 id="two-handed">Two-handed</h3>
-<p>The weapon damage is increased one level.   </p>
+<p>The weapon damage is increased one level, but at most to 5.   </p>
 <blockquote>
-<p>Hilda of Kullsala grips her winged spear with both hands. When thrusting with it, she will increase the damage level of the weapon from 4D to 5D.    </p>
+<p>Hilda of Kullsala grips her winged spear (medium) with both hands. When thrusting with it, she will increase the damage level of the weapon from her <em>melee combat</em> of 3 to 4 and then add the 2B for a total of 7D, including the <em>wild die</em>.   </p>
 </blockquote>
 <h3 id="dual-wielding">Dual Wielding</h3>
 <p>Designate one of the weapons as the one used for the attack. If the attack misses, it may be rerolled by spending 2P. If this second attack hits, damage is done using the other weapon. Unless the actor has the <a href="/potency/Character%20Options/Traits.html">trait</a> <em>Dual Wielder</em>, one hand can at most wield a <em>medium</em> weapon and the other no more than a <em>light</em>.   </p>
 <blockquote>
-<p>Amgus is attacked by a bandit swinging an axe and a dagger. The bandit rolls 4D for his <em>melee combat</em> using his axe for the first attack. The strike misses, but the bandit spends 2P to reroll it. If this second strike hits, Amgus will have to attempt to resist the dagger's damage rather than that of the axe.</p>
-</blockquote></div>
+<p>Amgus is attacked by a bandit swinging an axe and a dagger. The bandit rolls 4D for his <em>melee combat</em> using his axe for the first attack. The strike misses, but the bandit spends 2P to reroll it. If this second strike hits, Amgus will have to attempt to resist the dagger's damage rather than that of the axe.   </p>
+</blockquote>
+<h2 id="reach">Reach</h2>
+<div class="lang-general">
+
+<div class="codehilite"><pre><span></span><code>TBD
+</code></pre></div>
+
+
+</div></div>
 <div class="note-footer">
 <div class="backlinks">
 <h2>Backlinks</h2>
 <ul>
 	<li><a class="backlink" href="/potency/index.html">index</a></li>
+	<li><a class="backlink" href="/potency/Arms & Armour/Unarmed Combat.html">unarmed combat</a></li>
 </ul>
 </div>
 
@@ -415,13 +475,13 @@
 
 </div>
 <div class="graph requires_js ">
-    <div id="A59170101170545664744131297655802130416{level}" class="graph_div"></div>
+    <div id="A237682106918690230233602692738678655343{level}" class="graph_div"></div>
     
     <div class="graph-button-row" style="display:flex;">
-        <button class="graph_button graph_show_button" id="B59170101170545664744131297655802130416{level}" level="{level}" note_temp_id="59170101170545664744131297655802130416" onclick="window.ObsHtmlGraph.run(this, '59170101170545664744131297655802130416', 'melee weapons');">
+        <button class="graph_button graph_show_button" id="B237682106918690230233602692738678655343{level}" level="{level}" note_temp_id="237682106918690230233602692738678655343" onclick="window.ObsHtmlGraph.run(this, '237682106918690230233602692738678655343', 'melee weapons');">
             Show Graph
         </button>
-        <button class="graph_button graph_type_button" id="C59170101170545664744131297655802130416{level}" style="flex:1" onclick="window.ObsHtmlGraph.switch_graph_type(this);">
+        <button class="graph_button graph_type_button" id="C237682106918690230233602692738678655343{level}" style="flex:1" onclick="window.ObsHtmlGraph.switch_graph_type(this);">
             2D
         </button>
     </div>

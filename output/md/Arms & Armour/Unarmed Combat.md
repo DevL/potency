@@ -1,13 +1,13 @@
 ---
-{}
+alias: unarmed combat
 ---
    
-Based on the [skill](../Skills/Skills.md) with the same name, this is used when no weapons are used. Also used for grapples and the like. A special effect of training the _unarmed combat_ skill is that the damage of one’s unarmed attack is improved to 3D, 4D, and 5D for skill levels 3, 4, and 5 respectively.   
+Based on the [skill](../Skills/Skills.md) with the same name, this is used when no weapons are used. Also used for grapples and the like. As with [melee weapons](../Arms%20%26%20Armour/Melee%20Weapons.md) and [ranged weapons](../Arms%20%26%20Armour/Ranged%20Weapons.md), the base damage is determined by the underlying skill, but unless the [trait](../Character%20Options/Traits.md) _natural weapons_ has been acquired, no [bonus dice](../Rolling%20Dice/Bonus%20Dice.md) are applied to the physical damage roll.   
    
 | Skill Level | Damage Level | Damage |   
 |:-----------:|:------------:|:------:|   
 |      1      |      1       |   2D   |   
-|      2      |      1       |   2D   |   
-|      3      |      2       |   3D   |   
-|      4      |      3       |   4D   |   
-|      5      |      4       |   5D   |
+|      2      |      2       |   3D   |   
+|      3      |      3       |   4D   |   
+|      4      |      4       |   5D   |   
+|      5      |      5       |   6D   |

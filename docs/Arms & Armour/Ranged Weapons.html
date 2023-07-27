@@ -225,8 +225,7 @@
 		<li><a class="" href="/potency/Character Options/Character Points.html"  >Character Points</a></li>
 		<li><a class="" href="/potency/Character Options/Creating a Character.html"  >Creating a Character</a></li>
 		<li><a class="" href="/potency/Character Options/Foci.html"  >Foci</a></li>
-		<li><a class="" href="/potency/Character Options/Fortune Points.html"  >Fortune Points</a></li>
-		<li><a class="" href="/potency/Character Options/Level of Play.html"  >Level of Play</a></li>
+		<li><a class="" href="/potency/Character Options/Sapient Species.html"  >Sapient Species</a></li>
 		<li><a class="" href="/potency/Character Options/Talents.html"  >Talents</a></li>
 		<li><a class="" href="/potency/Character Options/Traits.html"  >Traits</a></li>
 	</ul>
@@ -238,6 +237,7 @@
 		<li><a class="" href="/potency/Conditions/Fatigue.html"  >Fatigue</a></li>
 		<li><a class="" href="/potency/Conditions/Recovery.html"  >Recovery</a></li>
 		<li><a class="" href="/potency/Conditions/Treatment.html"  >Treatment</a></li>
+		<li><a class="" href="/potency/Conditions/Wound.html"  >Wound</a></li>
 	</ul>
 </div>
 <button id="folder-4" class="dir-button" onclick="toggle_dir(this.id)">Example Characters</button>
@@ -298,25 +298,28 @@
 <button id="folder-10" class="dir-button" onclick="toggle_dir(this.id)">Rolling Dice</button>
 <div id="folder-container-10" class="dir-container requires_js " path="/potency/Rolling Dice">
 	<ul class="dir-list">
+		<li><a class="" href="/potency/Rolling Dice/Active vs Passive Rolls.html"  >Active vs Passive Rolls</a></li>
 		<li><a class="" href="/potency/Rolling Dice/Aid.html"  >Aid</a></li>
 		<li><a class="" href="/potency/Rolling Dice/Bonus Dice.html"  >Bonus Dice</a></li>
 		<li><a class="" href="/potency/Rolling Dice/Composing a Roll.html"  >Composing a Roll</a></li>
-		<li><a class="" href="/potency/Rolling Dice/Degree of Failure.html"  >Degree of Failure</a></li>
-		<li><a class="" href="/potency/Rolling Dice/Degree of Success.html"  >Degree of Success</a></li>
 		<li><a class="" href="/potency/Rolling Dice/Forced Passive Value.html"  >Forced Passive Value</a></li>
+		<li><a class="" href="/potency/Rolling Dice/Fortune Points.html"  >Fortune Points</a></li>
 		<li><a class="" href="/potency/Rolling Dice/Malus Dice.html"  >Malus Dice</a></li>
+		<li><a class="" href="/potency/Rolling Dice/Massive Failure.html"  >Massive Failure</a></li>
+		<li><a class="" href="/potency/Rolling Dice/Massive Success.html"  >Massive Success</a></li>
 		<li><a class="" href="/potency/Rolling Dice/Opposed Rolls.html"  >Opposed Rolls</a></li>
 		<li><a class="" href="/potency/Rolling Dice/Passive Value.html"  >Passive Value</a></li>
 		<li><a class="" href="/potency/Rolling Dice/Potential.html"  >Potential</a></li>
+		<li><a class="" href="/potency/Rolling Dice/Roll Results.html"  >Roll Results</a></li>
 		<li><a class="" href="/potency/Rolling Dice/Wild Die.html"  >Wild Die</a></li>
 	</ul>
 </div>
 <button id="folder-11" class="dir-button" onclick="toggle_dir(this.id)">Skills</button>
 <div id="folder-container-11" class="dir-container requires_js " path="/potency/Skills">
 	<ul class="dir-list">
+		<li><a class="" href="/potency/Skills/Aspects of Magic.html"  >Aspects of Magic</a></li>
 		<li><a class="" href="/potency/Skills/Combat Skills.html"  >Combat Skills</a></li>
 		<li><a class="" href="/potency/Skills/Intellectual Skills.html"  >Intellectual Skills</a></li>
-		<li><a class="" href="/potency/Skills/Magical Skills.html"  >Magical Skills</a></li>
 		<li><a class="" href="/potency/Skills/Physical Skills.html"  >Physical Skills</a></li>
 		<li><a class="" href="/potency/Skills/Practical Skills.html"  >Practical Skills</a></li>
 		<li><a class="" href="/potency/Skills/Skill Level.html"  >Skill Level</a></li>
@@ -338,8 +341,8 @@
 <tr>
 <th style="text-align: left;">Type</th>
 <th style="text-align: center;">Grip</th>
-<th style="text-align: center;">Damage Level</th>
-<th style="text-align: center;">Damage</th>
+<th style="text-align: left;">Damage Level</th>
+<th style="text-align: center;">Damage Bonus</th>
 <th style="text-align: left;">Examples</th>
 </tr>
 </thead>
@@ -347,52 +350,117 @@
 <tr>
 <td style="text-align: left;">Light</td>
 <td style="text-align: center;">1H</td>
-<td style="text-align: center;">2</td>
-<td style="text-align: center;">3D</td>
+<td style="text-align: left;">Ranged Combat</td>
+<td style="text-align: center;">1B</td>
 <td style="text-align: left;">Throwing knife, Sling</td>
 </tr>
 <tr>
 <td style="text-align: left;">Light</td>
 <td style="text-align: center;">2H</td>
-<td style="text-align: center;">3</td>
-<td style="text-align: center;">4D</td>
+<td style="text-align: left;">Ranged Combat + 1</td>
+<td style="text-align: center;">1B</td>
 <td style="text-align: left;">Hunting bow, Hand Crossbow</td>
 </tr>
 <tr>
 <td style="text-align: left;">Medium</td>
 <td style="text-align: center;">1H</td>
-<td style="text-align: center;">3</td>
-<td style="text-align: center;">4D</td>
+<td style="text-align: left;">Ranged Combat</td>
+<td style="text-align: center;">2B</td>
 <td style="text-align: left;">Throwing axe</td>
 </tr>
 <tr>
 <td style="text-align: left;">Medium</td>
 <td style="text-align: center;">2H</td>
-<td style="text-align: center;">4</td>
-<td style="text-align: center;">5D</td>
+<td style="text-align: left;">Ranged Combat + 1</td>
+<td style="text-align: center;">2B</td>
 <td style="text-align: left;">Staff-sling, Longbow, Crossbow</td>
 </tr>
 <tr>
 <td style="text-align: left;">Heavy</td>
 <td style="text-align: center;">1H</td>
-<td style="text-align: center;">4</td>
-<td style="text-align: center;">5D</td>
+<td style="text-align: left;">Ranged Combat</td>
+<td style="text-align: center;">3B</td>
 <td style="text-align: left;">Javelin</td>
 </tr>
 <tr>
 <td style="text-align: left;">Heavy</td>
 <td style="text-align: center;">2H</td>
-<td style="text-align: center;">5</td>
-<td style="text-align: center;">6D</td>
+<td style="text-align: left;">Ranged Combat + 1</td>
+<td style="text-align: center;">3B</td>
 <td style="text-align: left;">War Bow, Heavy Crossbow</td>
 </tr>
 </tbody>
-</table></div>
+</table>
+<table>
+<thead>
+<tr>
+<th style="text-align: center;">Ranged Combat</th>
+<th style="text-align: center;">1H Light</th>
+<th style="text-align: center;">2H Light/1H Medium</th>
+<th style="text-align: center;">2H Medium/1H Heavy</th>
+<th style="text-align: center;">2H Heavy</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: center;">1</td>
+<td style="text-align: center;">2D + 1B</td>
+<td style="text-align: center;">2D + 2B</td>
+<td style="text-align: center;">2D + 3B</td>
+<td style="text-align: center;">3D + 3B</td>
+</tr>
+<tr>
+<td style="text-align: center;">2</td>
+<td style="text-align: center;">3D + 1B</td>
+<td style="text-align: center;">3D + 2B</td>
+<td style="text-align: center;">3D + 3B</td>
+<td style="text-align: center;">4D + 3B</td>
+</tr>
+<tr>
+<td style="text-align: center;">3</td>
+<td style="text-align: center;">4D + 1B</td>
+<td style="text-align: center;">4D + 2B</td>
+<td style="text-align: center;">4D + 3B</td>
+<td style="text-align: center;">5D + 3B</td>
+</tr>
+<tr>
+<td style="text-align: center;">4</td>
+<td style="text-align: center;">5D + 1B</td>
+<td style="text-align: center;">5D + 2B</td>
+<td style="text-align: center;">5D + 3B</td>
+<td style="text-align: center;">6D + 3B</td>
+</tr>
+<tr>
+<td style="text-align: center;">5</td>
+<td style="text-align: center;">6D + 1B</td>
+<td style="text-align: center;">6D + 2B</td>
+<td style="text-align: center;">6D + 3B</td>
+<td style="text-align: center;">6D + 3B</td>
+</tr>
+</tbody>
+</table>
+<h2 id="grip">Grip</h2>
+<h3 id="one-handed">One-handed</h3>
+<p>The weapon makes it normal amount of damage. This allows the other hand to e.g. hold a <a href="/potency/Arms%20%26%20Armour/Shields.html">shield</a>.   </p>
+<h3 id="two-handed">Two-handed</h3>
+<p>The weapon damage is increased one level, but at most to 5.   </p>
+<blockquote>
+<p>Noomeron is using a longbow which is a two-handed weapon. When thrusting with it, she will increase the damage level of the weapon from her <em>ranged</em> combat_ of 4 to 5 and then add the 2B for a total of 8D including the <em>wild die</em>.   </p>
+</blockquote>
+<h2 id="range">Range</h2>
+<div class="lang-general">
+
+<div class="codehilite"><pre><span></span><code>TBD
+</code></pre></div>
+
+
+</div></div>
 <div class="note-footer">
 <div class="backlinks">
 <h2>Backlinks</h2>
 <ul>
 	<li><a class="backlink" href="/potency/index.html">index</a></li>
+	<li><a class="backlink" href="/potency/Arms & Armour/Unarmed Combat.html">unarmed combat</a></li>
 </ul>
 </div>
 
@@ -402,13 +470,13 @@
 
 </div>
 <div class="graph requires_js ">
-    <div id="A100838005881277733574264557366836540986{level}" class="graph_div"></div>
+    <div id="A229600682329534323421387480747231848227{level}" class="graph_div"></div>
     
     <div class="graph-button-row" style="display:flex;">
-        <button class="graph_button graph_show_button" id="B100838005881277733574264557366836540986{level}" level="{level}" note_temp_id="100838005881277733574264557366836540986" onclick="window.ObsHtmlGraph.run(this, '100838005881277733574264557366836540986', 'ranged weapons');">
+        <button class="graph_button graph_show_button" id="B229600682329534323421387480747231848227{level}" level="{level}" note_temp_id="229600682329534323421387480747231848227" onclick="window.ObsHtmlGraph.run(this, '229600682329534323421387480747231848227', 'ranged weapons');">
             Show Graph
         </button>
-        <button class="graph_button graph_type_button" id="C100838005881277733574264557366836540986{level}" style="flex:1" onclick="window.ObsHtmlGraph.switch_graph_type(this);">
+        <button class="graph_button graph_type_button" id="C229600682329534323421387480747231848227{level}" style="flex:1" onclick="window.ObsHtmlGraph.switch_graph_type(this);">
             2D
         </button>
     </div>

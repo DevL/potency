@@ -1,8 +1,7 @@
 ---
-aliases: magical skill, magical skills, magical aspect, magical aspects
+aliases: magical skill, magical skills, magical aspect, magical aspects, aspect of
+  magic, aspects of magic
 ---
-   
-Magical skills differ from [mundane skills](/not_created.md) in that a character does not automatically have them, not even at the lowest, untrained level of 1. To acquire a magical skill, the player needs to have a conversation with the game master regarding the theme, possibilities, and limitations it entails. A broad magical skill that can be used for many kinds of spells should cost more character points than a narrower, more focused and limited skill.   
    
 ## The Nature of Magic   
    
@@ -10,7 +9,7 @@ Magical skills differ from [mundane skills](/not_created.md) in that a character
 >    
 > – Temnon the Complexitor, Steward of the Learned's Guild in Hiastupol   
    
-Magic is the catch-all name given to acts using [Potential](../Rolling%20Dice/Potential.md) outside the normal rules of the game and the game world. Many practitioners would not even consider themselves to be wielding magic, but rather perform miracles, invoke the favour of the gods, harness their innate abilities, or just be blessed with uncanny luck. The rules are the same though and for that purpose, these acts are all referred to as magic.    
+Magic is the catch-all name given to acts using [potential](../Rolling%20Dice/Potential.md) outside the normal rules of the game and the game world. Many practitioners would not even consider themselves to be wielding magic, but rather perform miracles, invoke the favour of the gods, harness their innate abilities, or just be blessed with uncanny luck. The rules are the same though and for that purpose, these acts are all referred to as magic.    
    
 >  _Though there are some practitioners that call themselves conjurers, it is not possible to create something out of nothing. For potential to be transformed, or rather act as a catalyst for transformation, there must be something it can act on. Just like my earth magic cannot create a castle without stones to form, fire magic cannot work without air in which it can combust in and frost magic cannot work without water in some form. Few are ever made aware of this true nature though, but they learn to bring extra water with them out into the desert lest their magic sucks the moisture from their own skins when they seemingly create ice out of thin air._   
 >    
@@ -20,10 +19,7 @@ Magic is the catch-all name given to acts using [Potential](../Rolling%20Dice/Po
 >    
 > – Naelasti, formerly Custodian of the Learned's Guild in An'Taellon before the fall of the city   
    
-## Aspects of Magic   
-When creating a magical skill, consider what aspects of magic it encompasses. Can it cause harm, create illusions, move creatures and objects, or convey messages and sights?   
-   
-The more aspects a magical skill encompasses, the more versatile and hence powerful it becomes. This should be reflected in the cost in [Character Points](../Character%20Options/Character%20Points.md) that needs to be spent to advance a level in the skill in question.   
+## The Seven Aspects   
    
 > _There are many views on what forms channeling the power of a nexus can take. To understand the one true nature of it is to forget and deny the other, equally true natures of it. Adhering to a singular truth is thus tantamount to denying potential itself. To me, this search for a true nature is akin to madness. Nevertheless, if it helps you on your path towards understanding, I will tell you of the most commonly acknowledged aspects of this thing you consider magic._   
 >    
@@ -42,18 +38,12 @@ The more aspects a magical skill encompasses, the more versatile and hence power
 | Portation     | Transfer [potential](../Rolling%20Dice/Potential.md)       | Telepathy                   | Teleportation             |   
 | Sunderance    | Hinder ([malus dice](../Rolling%20Dice/Malus%20Dice.md))      | Cause mental damage         | Cause physical damage     |   
    
-### Assigning Aspects   
-Knowing aspects of magic is not enough to wield them. One or more [magical skills](../Skills/Magical%20Skills.md) are required to put theory into practice. Moreover, a single [magical skill](../Skills/Magical%20Skills.md) is not enough to master to put all the various aspects into use. A known aspect can be assigned to one or more [magical skills](../Skills/Magical%20Skills.md), enabling those skills to be used to cast spells requiring the aspect in question. You can only assign as many aspects to a single [magical skill](../Skills/Magical%20Skills.md) as the [skill level](../Skills/Skill%20Level.md) in that skill.   
+### Creating a Spell   
+When creating a spell, consider what aspects of magic it encompasses. Can it cause harm, create illusions, move creatures and objects, or convey messages and sights?   
    
-> The part-charlatan, part-medium _Erasmus_, has some training in the arts of the mind. As such he has assigned the aspects _cognition_, _formation_, and _portation_ to his magical skill _divination_. He has only skill level 3 in _divination_, so no further aspects can be assigned or used with that skill. However, he has started to dabble in the darker arts or inflicting pain with his will. He has gained 2 levels in the magical skill _mindwar_ and can thus assign the aspects _sunderance_ and _cognition_ to it.   
+Spells can be made to require various levels of the aspects in order to be available to the actor to cast. For example, creating an illusion of a fierce warrior might only require the _manifestation_ and _essence_ aspects, but making the illusory warrior capable of hurting those that are fooled by the illusion might also require the _sunderance_ aspect. The same goes for a life stealing spell which could combine the aspects _agency_, _essence_, _portation_, and _sunderance_ to both cause fatigue to a target and transfer some of its potential to the caster.   
    
-```
-This is done in order to require and encourage those wishing to master magic to learn multiple forms of magic. If a player wants their character to be a master of the elements, having a magical skill called _elemental magic_ and raising it to level 5 is _still_ not enough to become a fully fledged archmage as additional skills need to be trained to make use of illusions and fate-weaving.
-```
-   
-   
-### Combining Aspects   
-Spells can be made to require various levels of the aspects in order to be available to the actor to cast. For example, creating an illusion of a fierce warrior might only require the _manifestation_ and _essence_ aspects, but making the illusory warrior capable of hurting those that are fooled by the illusion might also require a the _sunderance_ aspect. The same goes for a life stealing spell which could combine the aspects _essence_, _portation_, and _sunderance_ to both cause fatigue to a target and transfer some of its potential to the caster.   
+The more aspects a spell encompasses, the more versatile and hence powerful it becomes, but also more difficult to master. This is reflected by the caster’s _lowest_ magical skill being used to cast the spell.   
    
 > The _Kyreenian Sword School_ teaches a form of magic to its students called _Sword Dancing_. Its practitioners can enhance their blade's strikes and parries (_formation of agency_), move more swiftly across the battlefield (_portation of essence_), and make devastating melee and ranged attacks (_sunderance of essence_).   
    
@@ -61,12 +51,9 @@ Spells can be made to require various levels of the aspects in order to be avail
    
 > Meister Xax, another member of the _Learned's Guild_ is not only a self-proclaimed great architect and master builder, but also a master of earth magic. He can encase an object in a protective crust (_formation of agency_), move the earth aside (_portation of essence_), and even shake the ground when enraged (_sunderance of essence_).   
    
-## Character Point Cost of Magic and Aspects   
-Magical skills are acquired at the same cost as mundane skills. However, in order to cast spells, it is necessary to understand the aspect or aspects involved in a given spell. For each level taken in a magical skill, it is possible to acquire an aspect for 5 character points.   
+## Character Point Cost of  the Aspects   
+Once the seven aspects of magic have been acquired at [skill level](../Skills/Skill%20Level.md) 1 (_untrained_) by taking the [trait](../Character%20Options/Traits.md) _Arcane Initiate_, they can be raised at the same cost as mundane skills.   
    
-> A level 2 _Kyreenian Sword Dancer_ could acquire _agency_ and _formation_ for 10 points after having spent 3 points on the magical skill. This is 13 points in total for some minor boosts. Advancing to level 3 (+3 points) and grabbing _sunderance_ (+5 points) makes it a total of 21 character points for some moderately useful effects.   
+> A _Kyreenian Sword Dancer_ could acquire the trait _Arcane Initiate_ and the aspects  _agency_ 2 and _formation_ 2 for 14 character points which is enough for the smallest of boosts. Advancing both to level 3 (+6 points) and grabbing _sunderance_ 3 (+6 points) makes it a total of 26 character points for some rather useful effects.   
    
-> A war mage not caring for anything other than _essence_ and _sunderance_ could do some real damage by only spending 20-25 character points (level 4-5 + 10 points for _essence_ and  _sunderance_). They would be as much a one-trick-pony as an archer though.   
-   
-## Option: Aspectless Magic   
-As an alternative to the aspects, a character could wield any kind of magic, only limited by what the player and gamemaster agrees on. If using this option, let magical skills cost twice as much as ordinary skill.
+> A war mage not caring for anything other than _essence_ and _sunderance_ could do some real damage by spending 30-38 character points to take _Arcane Initiate_ and level 4-5 each in _essence_ and _sunderance_.
