@@ -2,4 +2,4 @@
 aliases: character point, character points
 ---
    
-Character points are used to obtain [skill levels](../Skills/Skill%20Level.md), [foci](../Character%20Options/Foci.md), [talents](../Character%20Options/Talents.md), and [magical aspects](../Skills/Aspects%20of%20Magic.md).
+Character points are used to gaining [skill levels](../Skills/Skill%20Level.md) in [mundane skills](../Skills/Skills.md) and [magical skills](../Skills/Aspects%20of%20Magic.md), as well as acquiring [talents](../Character%20Options/Talents.md) and [traits](../Character%20Options/Traits.md).

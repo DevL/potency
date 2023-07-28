@@ -2,7 +2,7 @@
 aliases: ranged weapon, ranged weapons
 ---
    
-_Ranged weapons_ are either _light_, _medium_, or _heavy_. In general, _light_ weapons tends to be much more inconspicuous than their heavier counterparts, with _heavy_ weapons almost exclusively being of a very obvious martial nature.   
+_Ranged weapons_ are either _light_ or _heavy_. In general, _light_ weapons tends to be much more inconspicuous than their heavier counterparts, with _heavy_ weapons almost exclusively being of a very obvious martial nature.   
    
 | Type   | Grip | Damage Level      | Damage Bonus | Examples                       |   
 |:------ |:----:|:----------------- |:------------:|:------------------------------ |   
@@ -24,12 +24,12 @@ _Ranged weapons_ are either _light_, _medium_, or _heavy_. In general, _light_ w
 ## Grip   
    
 ### One-handed   
-The weapon makes it normal amount of damage. This allows the other hand to e.g. hold a [shield](../Arms%20%26%20Armour/Shields.md).   
+The weapon makes it normal amount of damage. One-handed _light_ weapons add 1B and one-handed _heavy_ weapons add 2B. This allows the other hand to e.g. hold a [shield](../Arms%20%26%20Armour/Shields.md).    
    
 ### Two-handed   
-The weapon damage is increased one level, but at most to 5.   
+The weapon makes an additional [bonus die](../Rolling%20Dice/Bonus%20Dice.md) of damage. Two-handed _light_ weapons add 2B and two-handed _heavy_ weapons add 3B.    
    
-> Noomeron is using a longbow which is a two-handed weapon. When thrusting with it, she will increase the damage level of the weapon from her _ranged_ combat_ of 4 to 5 and then add the 2B for a total of 8D including the _wild die_.   
+> Noomeron is using a longbow which is a _heavy_, two-handed weapon. When shooting with it, she will base the damage on her _ranged combat_ of 4 and then add 3B for a total of 8D physical damage, including the _wild die_.   
    
 ## Range   
    

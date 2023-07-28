@@ -31,7 +31,6 @@
 * Character Options   
 	* [Creating a Character](./Character%20Options/Creating%20a%20Character.md)   
 		* [Careers](./Character%20Options/Careers.md)   
-		* [Foci](./Character%20Options/Foci.md)   
 		* [Talents](./Character%20Options/Talents.md)   
 		* [Traits](./Character%20Options/Traits.md)   
 		* [Character Points](./Character%20Options/Character%20Points.md)   
