@@ -4,7 +4,7 @@ aliases: trait, traits
    
 A trait is a special ability or quirk that sets a character apart from most others.     
    
-Unless otherwise noted, it cost 7 [character points](../Character%20Options/Character%20Points.md) to acquire a trait. However, all traits are not only beneficial as some come with drawbacks and such traits are typically free.   
+Unless otherwise noted, acquiring a trait cost 7  [character points](../Character%20Options/Character%20Points.md) unless the trait is picked as the free [talent](../Character%20Options/Talents.md) or trait granted by a career. However, all traits are not only beneficial as some come with drawbacks and such traits are typically free.   
    
 Some traits also have certain prerequisites that needs to be fulfilled before acquiring the trait.   
    
@@ -29,17 +29,6 @@ With pinpoint accuracy, your missiles always seem to hit where it hurts the most
 You increase your physical damage caused by ranged weapons with 1B.   
    
 > Noomeron raised her bow, breathed out and hit the beast right between the eyes.   
-   
-## Dual Wielder   
-_Requires melee combat 3._   
-You are trained in the art of using two weapons to the extent that you no longer are limited to using at most a medium weapon in your main hand and only a light weapon in your off-hand.   
-   
-```
-FIXME: Rework using the weapon types. Possibly remove?
-```
-   
-   
-> Elsa drew her two arming swords, seemingly from thin air. Her assailants would soon find out that though the blades were made of ice, they cut just as unforgivingly as the finest steel.   
    
 ## Fast Reactions   
 _Requires movement 3._   
