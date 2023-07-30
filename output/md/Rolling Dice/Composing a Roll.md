@@ -1,4 +1,7 @@
 ---
-{}
+aliases: composed roll, composing a roll
 ---
    
+The act of determining the type and number of dice to roll is referred to as _composing_ a roll. A composed roll _always_ include the [wild die](../Rolling%20Dice/Wild%20Die.md). Add any [potential](../Rolling%20Dice/Potential.md) spent, as allowed by the [skill level](../Skills/Skill%20Level.md) or other limiting factor, e.g. a [spell effect](../Magic/Components/Effect.md). Add any applicable [bonus dice](../Rolling%20Dice/Bonus%20Dice.md). Lastly, apply any [malus dice](../Rolling%20Dice/Malus%20Dice.md), first removing corresponding [bonus dice](../Rolling%20Dice/Bonus%20Dice.md), and then removing normal, non-wild dice. The resulting dice are the ones that can be rolled, either [actively](../Rolling%20Dice/Active%20vs%20Passive%20Rolls.md) or [passively](../Rolling%20Dice/Active%20vs%20Passive%20Rolls.md).   
+   
+> Amgus is attempting to run away from an angry mob. In doing so, he needs to compose a _movement_ roll. He takes the _wild die_ and adds his skill level in _movement_, which is 2. He then adds a bonus die as he has imbued the contents of a flask labelled ”Heroic retreat” he bought earlier. This brings his composed roll to the wild die, two normal dice, and a single bonus die. However, unbeknownst to him, an urching has tied his shoelaces together, significantly hampering his desperate flight by imposing two malus dice to the roll. He therfore must remove the bonus die and one of the normal dice, making his final roll consist of no more than the wild die and a single normal die. Note that he still needs to spend 2P to make the roll even though one of the normal dice was negated by a malus die.
