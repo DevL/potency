@@ -17,6 +17,22 @@ You are used to wearing and adjusting armour to fit your needs. When wearing arm
    
 > A heavily armoured dwarf is a neither swift, nor quiet affair. And yet, Draggomir moved with an uncanny speed and silence that someone in heavy dwarven mail should not be capable of.    
    
+## Backstabber (TBD)   
+_Some mechanic rewarding additional damage for light weapons when attacking from behind/undetected goes here._   
+   
+```
+TBD
+```
+   
+   
+## Berserker (TBD)   
+_Some mechanic rewarding additional attacks at the expense of defence goes here._   
+   
+```
+TBD
+```
+   
+   
 ## Careful Caster   
 _Requires any magical skill 3._   
 When using magic, you have learnt to be wary of and avoid magical backlash. If a [massive failure](../Rolling%20Dice/Massive%20Failure.md) to cast a spell would cause you [fatigue](../Conditions/Fatigue.md), you ignore it. If a [massive failure](../Rolling%20Dice/Massive%20Failure.md) instead would cause you a [wound](../Conditions/Wound.md), you instead sustain [fatigue](../Conditions/Fatigue.md).    
@@ -94,6 +110,18 @@ _Free trait. Can only be taken during the first step of character creation._
 You are smaller than most and as such you lack the physicality to wield heavy weapons or shields. On the upside, you are generally harder to hit and therefore receive a [talent](../Character%20Options/Talents.md) in the _defence_ skill for free.   
    
 > Being a part of the smallfolk, Hilda of Kullsala has always had to limit the arms she bore as a member of the town watch. On the other hand, she was rarely hit when breaking up fights in the sleepy town.    
+   
+## Throwing Arm (TBD)   
+_Requires exertion 3 and ranged combat 3._   
+With great strength, you hurl your missiles at your foes harder than anyone else.   
+You increase your physical damage caused by thrown ranged weapons by 1B.   
+   
+```
+FIXME: This is argubly worse than taking the Deadly Accuracy trait. Add another benefit to this one like increasing the range?
+```
+   
+   
+> The warrior’s javelin hit home like it had been launched from a mechanical device, yet is was thrown.   
    
 ## Wild Magic   
 _Free trait. Requires any magical skill 1._   
