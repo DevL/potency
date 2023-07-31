@@ -21,8 +21,7 @@ Apart from humans who are the most common and numerous of all species, there are
    
 * Centaurs   
 * Feralkin   
-* Wolfkin   
-*    
+* Wolfkin (rapaxi?)   
    
    
    

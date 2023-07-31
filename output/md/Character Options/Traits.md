@@ -103,7 +103,7 @@ You increase your physical damage caused by unarmed strikes with 1B.
 _Requires exertion 3 or crafting 4._   
 You are used to wearing and adjusting shields to fit your needs. When using a shield, apply the negative conditions from shields that is one grade lighter than the one you are using. Using light shields impose no negative conditions.   
    
-> Laurelle af Marg is a superb warrior, highly skilled in using a shield without it encumbering her. When raising her medium shield blazoned with the arms of the barony of Brechten, it is as if she was using a small targe. No more does it hinder her.   
+> Laurelle af Marg is a superb warrior, highly skilled in using a shield without it encumbering her. When raising her heater shield emblazoned with the arms of the barony of Brechten, it is as if she was using a small targe. No more does it hinder her.   
    
 ## Small Stature   
 _Free trait. Can only be taken during the first step of character creation._   

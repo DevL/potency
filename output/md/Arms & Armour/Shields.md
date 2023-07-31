@@ -6,8 +6,8 @@ _Shields_ are either _light_, _medium_, or _heavy_. In general, _light_ shields 
    
 Some of downsides of using shields can be countered by acquiring the [trait](../Character%20Options/Traits.md) _Shield Bearer_.   
    
-| Type   | Defence | Potential | Stealth | Movement | Examples                  |   
-|:------ |:-------:|:---------:|:-------:|:--------:|:------------------------- |   
-| Light  |   1B    |    -1P    |         |          | Parrying Dagger, Targe    |   
-| Medium |   2B    |    -1P    |   1M    |    1M    | Round shield, Kite shield |   
-| Heavy  |   3B    |    -2P    |   2M    |    2M    | Pavise, Scutum            |
+| Type   | Defence | Potential | Stealth | Movement | Examples                                 |   
+|:------ |:-------:|:---------:|:-------:|:--------:|:---------------------------------------- |   
+| Light  |   1B    |    -1P    |         |          | Buckler, Parrying Dagger, Targe          |   
+| Medium |   2B    |    -1P    |   1M    |    1M    | Heater Shield, Kite Shield, Round Shield |   
+| Heavy  |   3B    |    -2P    |   2M    |    2M    | Pavise, Scutum                           |
