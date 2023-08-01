@@ -111,6 +111,11 @@ You are smaller than most and as such you lack the physicality to wield heavy we
    
 > Being a part of the smallfolk, Hilda of Kullsala has always had to limit the arms she bore as a member of the town watch. On the other hand, she was rarely hit when breaking up fights in the sleepy town.    
    
+## Sustainable Spells   
+_Requires any magical skill 3._   
+When [sustaining](../Magic/Components/Sustain.md) a spell, you expend less [potential](../Rolling%20Dice/Potential.md) than other casters.    
+Calculate [sustain](../Magic/Components/Sustain.md) as 1/2 of the [spell dice](../Magic/Components/Spell%20Dice.md), rounded.   
+   
 ## Throwing Arm (TBD)   
 _Requires exertion 3 and ranged combat 3._   
 With great strength, you hurl your missiles at your foes harder than anyone else.   
