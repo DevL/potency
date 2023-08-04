@@ -2,10 +2,6 @@
 aliases: wound, wounds, wounded
 ---
    
-```
-FIXME - use another name for "level". Degree? Severity?
-```
+A condition reducing the available [potential](../Rolling%20Dice/Potential.md) by 1P for each degree of severity of the condition.   
    
-   
-A condition reducing the available [potential](../Rolling%20Dice/Potential.md) by 1P for each level of the condition.   
-Requires [treatment](../Conditions/Treatment.md) and a [longer recovery](../Conditions/Recovery.md) period to be removed.
+Requires [treatment](../Conditions/Treatment.md) and [recovery](../Conditions/Recovery.md) to be removed.

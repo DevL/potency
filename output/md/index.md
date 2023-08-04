@@ -26,7 +26,7 @@
 	* [Physical Skills](./Skills/Physical%20Skills.md)   
 	* [Practical Skills](./Skills/Practical%20Skills.md)   
 	* [Social Skills](./Skills/Social%20Skills.md)   
-	* [Aspects of Magic](./Skills/Aspects%20of%20Magic.md)   
+	* [Aspects of Magic](./Magic/Aspects%20of%20Magic.md)   
 * [Aid](./Rolling%20Dice/Aid.md)   
 * Character Options   
 	* [Creating a Character](./Character%20Options/Creating%20a%20Character.md)   
@@ -48,7 +48,7 @@
 * [Passive Value](./Rolling%20Dice/Passive%20Value.md)   
 	* [Forced Passive Value](./Rolling%20Dice/Forced%20Passive%20Value.md)   
 * [Movement](./Movement/Movement.md) (using the skill *movement*)   
-* [Magic](./Magic/Magic.md)   
+* [Spells and Magical Effects](./Magic/Spells%20and%20Magical%20Effects.md)   
 	* [Forms of Magic](./Magic/Forms%20of%20Magic.md)   
 	* Components   
 		* [Effect](./Magic/Components/Effect.md)   

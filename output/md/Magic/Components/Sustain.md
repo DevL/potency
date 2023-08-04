@@ -9,7 +9,7 @@ Calculated as 2/3 of the number of [spell dice](../../Magic/Components/Spell%20D
 Unless otherwise stated, no new skill roll is required to sustain a spell.   
    
 | Spell Dice | Sustain | Sustain with _Sustainable Spells_ |   
-| ----------:|:-------:|:-------------------------------:|   
+|:----------:|:-------:|:-------------------------------:|   
 |          3 |       2 |                               2 |   
 |          4 |       3 |                               2 |   
 |          5 |       3 |                               3 |   

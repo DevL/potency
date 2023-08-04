@@ -9,7 +9,7 @@ Unless otherwise noted, acquiring a trait cost 7  [character points](../Characte
 Some traits also have certain prerequisites that needs to be fulfilled before acquiring the trait.   
    
 ## Arcane Initiate   
-You gain [skill level](../Skills/Skill%20Level.md) 1 (_untrained_) in the seven [magical aspects](../Skills/Aspects%20of%20Magic.md); _Agency_, _Cognition_, _Essence_, _Formation_, _Manifestation_, _Portation_, and _Sunderance_. This unlocks the possibility to further train the various [magical skills](../Skills/Aspects%20of%20Magic.md) as any other [skill](../Skills/Skills.md). You also gain the ability to cast very simple spells requiring no more than 3 [spell dice](../Magic/Components/Spell%20Dice.md) without making an [active](../Rolling%20Dice/Active%20vs%20Passive%20Rolls.md) spell roll.   
+You gain [skill level](../Skills/Skill%20Level.md) 1 (_untrained_) in the seven [magical aspects](../Magic/Aspects%20of%20Magic.md); _Agency_, _Cognition_, _Essence_, _Formation_, _Manifestation_, _Portation_, and _Sunderance_. This unlocks the possibility to further train the various [magical skills](../Magic/Aspects%20of%20Magic.md) as any other [skill](../Skills/Skills.md). You also gain the ability to cast very simple spells requiring no more than 3 [spell dice](../Magic/Components/Spell%20Dice.md) without making an [active](../Rolling%20Dice/Active%20vs%20Passive%20Rolls.md) spell roll.   
    
 ## Armourer   
 _Requires exertion 3 or crafting 4._   
@@ -18,6 +18,8 @@ You are used to wearing and adjusting armour to fit your needs. When wearing arm
 > A heavily armoured dwarf is a neither swift, nor quiet affair. And yet, Draggomir moved with an uncanny speed and silence that someone in heavy dwarven mail should not be capable of.    
    
 ## Backstabber (TBD)   
+_Requires melee combat 3 and stealth 3._   
+   
 _Some mechanic rewarding additional damage for light weapons when attacking from behind/undetected goes here._   
    
 ```
@@ -26,6 +28,8 @@ TBD
    
    
 ## Berserker (TBD)   
+_Requires exertion 3 and resistance 3._   
+   
 _Some mechanic rewarding additional attacks at the expense of defence goes here._   
    
 ```
@@ -70,9 +74,9 @@ You increase your physical damage caused by melee weapons with 1B.
 ## Innate Magic   
 You know not of the magical arts and aspects. You know not how to wield magic. You just do it.   
    
-You gain the unique [magical skill](../Skills/Aspects%20of%20Magic.md) _Innate Magic_ at [skill level](../Skills/Skill%20Level.md) 3. You cannot train this skill further.   
+You gain the unique [magical skill](../Magic/Aspects%20of%20Magic.md) _Innate Magic_ at [skill level](../Skills/Skill%20Level.md) 3. You cannot train this skill further.   
    
-Create a spell that uses no more than 2 [magical aspects](../Skills/Aspects%20of%20Magic.md), no more than 9 [spell dice](../Magic/Components/Spell%20Dice.md), and does not require a [skill level](../Skills/Skill%20Level.md) higher than 3. You do not need to know the aspects involved and can cast this spell using _Innate Magic_.   
+Create a spell that uses no more than 2 [magical aspects](../Magic/Aspects%20of%20Magic.md), no more than 9 [spell dice](../Magic/Components/Spell%20Dice.md), and does not require a [skill level](../Skills/Skill%20Level.md) higher than 3. You do not need to know the aspects involved and can cast this spell using _Innate Magic_.   
    
 > Not everyone is this world learns magic by studying it. Some are born with it, though they might only master a fraction of the arts. Ever noticed how the village healer seems to be able to just lay her hands on a wound and concentrate to close it? If that is not some form of innate magic at work, I don't know what it is!   
    
@@ -98,6 +102,10 @@ Through claws or fists, you are deadly even unarmed.
 You increase your physical damage caused by unarmed strikes with 1B.   
    
 > Aun the minotaur was a peaceful man, always eager to use his extensive skills of healing. However, when he had no choice but to resort to violence, his innate strength subsequently made his skills of healing all the more needed.   
+   
+## Potent Caster   
+_Requires any magical skill 3._   
+You have mastered the flow of potential to the point that you can cause even greater effects when casting spells. After casting a spell, but before resolving its effects, you may spend [potential](../Rolling%20Dice/Potential.md) equal to the [spell volume](../Magic/Components/Volume.md) to add a [bonus die](../Rolling%20Dice/Bonus%20Dice.md) to the [spell effect](../Magic/Components/Effect.md).   
    
 ## Shield Bearer   
 _Requires exertion 3 or crafting 4._   
