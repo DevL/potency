@@ -66,5 +66,5 @@
 	* [Noomeron (Hunter)](./Example%20Characters/Noomeron%20%28Hunter%29.md)    
 	* [Thurfinn Griefstruck (Fighter)](./Example%20Characters/Thurfinn%20Griefstruck%20%28Fighter%29.md)   
 * Gamemaster Tools   
-	* [Morale](/not_created.md)   
-	* [NPC Passive Values](/not_created.md)
+	* [Morale](./Gamemaster%20Tools/Morale.md)   
+	* [NPC Passive Values](./Gamemaster%20Tools/NPC%20Passive%20Values.md)

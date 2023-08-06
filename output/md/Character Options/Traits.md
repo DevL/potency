@@ -41,7 +41,7 @@ When using magic, you have learnt to be wary of and avoid magical backlash. If a
 ## Deadly Accuracy   
 _Requires perception 3 and ranged combat 3._   
 With pinpoint accuracy, your missiles always seem to hit where it hurts the most.   
-You increase your physical damage caused by ranged weapons with 1B.   
+You increase your physical damage caused by ranged weapons with 1B. If your physical damage already has 3B, you may instead re-roll a failed damage roll per turn.    
    
 > Noomeron raised her bow, breathed out and hit the beast right between the eyes.   
    
@@ -62,7 +62,7 @@ TBD
 ## Heavy Hitter   
 _Requires exertion 3 and melee combat 3._   
 Your strength makes your blows strike harder than most.    
-You increase your physical damage caused by melee weapons with 1B.   
+You increase your physical damage caused by melee weapons with 1B. If your physical damage already has 3B, you may instead re-roll a failed damage roll per turn.   
    
 > Ever seen an enraged ogre swinging a tree trunk in your direction. Yes? Liar! You would be dead if you had!   
    
@@ -94,7 +94,7 @@ Your artistic talents inspire those around you to great feats. You can use your 
 ## Natural Weapons   
 _Requires exertion 3 and unarmed combat 3._   
 Through claws or fists, you are deadly even unarmed.   
-You increase your physical damage caused by unarmed strikes with 1B.   
+You increase your physical damage caused by unarmed strikes with 1B. If your physical damage already has 3B, you may instead re-roll a failed damage roll per turn.   
    
 > Aun the minotaur was a peaceful man, always eager to use his extensive skills of healing. However, when he had no choice but to resort to violence, his innate strength subsequently made his skills of healing all the more needed.   
    
