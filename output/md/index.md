@@ -64,4 +64,7 @@
 	* [Amgus the Unfortunate (Merchant)](./Example%20Characters/Amgus%20the%20Unfortunate%20%28Merchant%29.md)   
 	* [Montré Valerius (Mage)](./Example%20Characters/Montr%C3%A9%20Valerius%20%28Mage%29.md)   
 	* [Noomeron (Hunter)](./Example%20Characters/Noomeron%20%28Hunter%29.md)    
-	* [Thurfinn Griefstruck (Fighter)](./Example%20Characters/Thurfinn%20Griefstruck%20%28Fighter%29.md)
+	* [Thurfinn Griefstruck (Fighter)](./Example%20Characters/Thurfinn%20Griefstruck%20%28Fighter%29.md)   
+* Gamemaster Tools   
+	* [Morale](/not_created.md)   
+	* [NPC Passive Values](/not_created.md)

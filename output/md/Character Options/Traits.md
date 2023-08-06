@@ -102,6 +102,10 @@ You increase your physical damage caused by unarmed strikes with 1B.
 _Requires any magical skill 3._   
 You have mastered the flow of potential to the point that you can cause even greater effects when casting spells. After casting a spell, but before resolving its effects, you may spend [potential](../Rolling%20Dice/Potential.md) equal to the [spell volume](../Magic/Components/Volume.md) to add a [bonus die](../Rolling%20Dice/Bonus%20Dice.md) to the [spell effect](../Magic/Components/Effect.md).   
    
+> Draggomir invokes the magic of the rune etched into his upper arm, intent on boosting his might using formation of agency. He would normally cast the spell using a spell volume of 1 and thus he only needs to spend an additional potential to gain a bonus die for the spell effect.   
+   
+> Lilly sends her swarm of scorching fire towards a group of enemies. The group is large enough to require a spell volume of 3 so she needs to spend 3 additional potential to increase the effect by a bonus die.   
+   
 ## Shield Bearer   
 _Requires exertion 3 or crafting 4._   
 You are used to wearing and adjusting shields to fit your needs. When using a shield, apply the negative conditions from shields that is one grade lighter than the one you are using. Using light shields impose no negative conditions.   
@@ -118,18 +122,6 @@ You are smaller than most and as such you lack the physicality to wield heavy we
 _Requires any magical skill 3._   
 When [sustaining](../Magic/Components/Sustain.md) a spell, you expend less [potential](../Rolling%20Dice/Potential.md) than other casters.    
 Calculate [sustain](../Magic/Components/Sustain.md) as 1/2 of the [spell dice](../Magic/Components/Spell%20Dice.md), rounded.   
-   
-## Throwing Arm (TBD)   
-_Requires exertion 3 and ranged combat 3._   
-With great strength, you hurl your missiles at your foes harder than anyone else.   
-You increase your physical damage caused by thrown ranged weapons by 1B.   
-   
-```
-FIXME: This is argubly worse than taking the Deadly Accuracy trait. Add another benefit to this one like increasing the range?
-```
-   
-   
-> The warrior’s javelin hit home like it had been launched from a mechanical device, yet is was thrown.   
    
 ## Wild Magic   
 _Free trait. Requires any magical skill 1._   
