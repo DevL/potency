@@ -247,7 +247,11 @@
 <div id="folder-container-4" class="dir-container requires_js " path="/potency/Conditions">
 	<ul class="dir-list">
 		<li><a class="" href="/potency/Conditions/Conditions.html"  >Conditions</a></li>
+		<li><a class="" href="/potency/Conditions/Encumberance.html"  >Encumberance</a></li>
 		<li><a class="" href="/potency/Conditions/Fatigue.html"  >Fatigue</a></li>
+		<li><a class="" href="/potency/Conditions/Hinderance.html"  >Hinderance</a></li>
+		<li><a class="" href="/potency/Conditions/Knocked-Out.html"  >Knocked-Out</a></li>
+		<li><a class="" href="/potency/Conditions/Noisy.html"  >Noisy</a></li>
 		<li><a class="" href="/potency/Conditions/Recovery.html"  >Recovery</a></li>
 		<li><a class="" href="/potency/Conditions/Treatment.html"  >Treatment</a></li>
 		<li><a class="" href="/potency/Conditions/Wound.html"  >Wound</a></li>
@@ -271,8 +275,10 @@
 		<li><a class="" href="/potency/Game Modes/Real Time.html"  >Real Time</a></li>
 		<li><a class="" href="/potency/Game Modes/Relaxed Time.html"  >Relaxed Time</a></li>
 		<li><a class="" href="/potency/Game Modes/Rolling Initiative.html"  >Rolling Initiative</a></li>
+		<li><a class="" href="/potency/Game Modes/Rounds.html"  >Rounds</a></li>
 		<li><a class="" href="/potency/Game Modes/Shared Potential Pool.html"  >Shared Potential Pool</a></li>
 		<li><a class="" href="/potency/Game Modes/Tense Time.html"  >Tense Time</a></li>
+		<li><a class="" href="/potency/Game Modes/Turns.html"  >Turns</a></li>
 	</ul>
 </div>
 <button id="folder-7" class="dir-button" onclick="toggle_dir(this.id)">Magic</button>
@@ -348,7 +354,7 @@
 </div>
                         <div class="container">
                                 <embeddedtitle>Ranged Weapons</embeddedtitle>
-<div class="content"><p><em>Ranged weapons</em> are either <em>light</em>, <em>medium</em>, or <em>heavy</em>. In general, <em>light</em> weapons tends to be much more inconspicuous than their heavier counterparts, with <em>medium</em> and <em>heavy</em> weapons almost exclusively being of a very obvious martial nature.   </p>
+<div class="content"><p><em>Ranged weapons</em> are either <em>light</em> or <em>heavy</em>. In general, <em>light</em> weapons tends to be much more inconspicuous than their heavier counterparts, with <em>heavy</em> weapons almost exclusively being of a very obvious martial nature.   </p>
 <p>When determining the physical damage caused by a ranged attack, combine the <a href="/potency/not_created.html" class="nonexistent-link">actor</a>’s <a href="/potency/Skills/Skill%20Level.html">skill level</a> in <em>ranged combat</em> with the damage bonus for the weapon used. The number of <a href="/potency/Rolling%20Dice/Bonus%20Dice.html">bonus dice</a> is determined by the weapon’s type and the way it is gripped. Note that any <a href="/potency/Rolling%20Dice/Bonus%20Dice.html">bonus dice</a> applied to the <em>ranged combat</em> roll made to hit the target are not made a part of the damage roll.   </p>
 <table>
 <thead>
@@ -363,26 +369,14 @@
 <tr>
 <td style="text-align: left;">Light</td>
 <td style="text-align: center;">1H</td>
-<td style="text-align: center;">None</td>
-<td style="text-align: left;">Sling, Throwing Knife</td>
+<td style="text-align: center;">1B</td>
+<td style="text-align: left;">Hand Crossbow, Sling, Throwing Knife</td>
 </tr>
 <tr>
 <td style="text-align: left;">Light</td>
 <td style="text-align: center;">2H</td>
-<td style="text-align: center;">1B</td>
-<td style="text-align: left;">Hand Crossbow, Shortbow, Staff-sling</td>
-</tr>
-<tr>
-<td style="text-align: left;">Medium</td>
-<td style="text-align: center;">1H</td>
-<td style="text-align: center;">1B</td>
-<td style="text-align: left;">Throwing Axe</td>
-</tr>
-<tr>
-<td style="text-align: left;">Medium</td>
-<td style="text-align: center;">2H</td>
 <td style="text-align: center;">2B</td>
-<td style="text-align: left;">Crossbow, Longbow</td>
+<td style="text-align: left;">Crossbow, Shortbow, Staff-sling</td>
 </tr>
 <tr>
 <td style="text-align: left;">Heavy</td>
@@ -394,7 +388,7 @@
 <td style="text-align: left;">Heavy</td>
 <td style="text-align: center;">2H</td>
 <td style="text-align: center;">3B</td>
-<td style="text-align: left;">War Bow, Heavy Crossbow</td>
+<td style="text-align: left;">Longbow, Heavy Crossbow</td>
 </tr>
 </tbody>
 </table>
@@ -403,43 +397,37 @@
 <tr>
 <th style="text-align: center;">Ranged Combat</th>
 <th style="text-align: center;">1H Light</th>
-<th style="text-align: center;">2H Light/1H Medium</th>
-<th style="text-align: center;">2H Medium/1H Heavy</th>
+<th style="text-align: center;">2H Light/1H Heavy</th>
 <th style="text-align: center;">2H Heavy</th>
 </tr>
 </thead>
 <tbody>
 <tr>
 <td style="text-align: center;">1</td>
-<td style="text-align: center;">2D</td>
 <td style="text-align: center;">2D + 1B</td>
 <td style="text-align: center;">2D + 2B</td>
 <td style="text-align: center;">2D + 3B</td>
 </tr>
 <tr>
 <td style="text-align: center;">2</td>
-<td style="text-align: center;">3D</td>
 <td style="text-align: center;">3D + 1B</td>
 <td style="text-align: center;">3D + 2B</td>
 <td style="text-align: center;">3D + 3B</td>
 </tr>
 <tr>
 <td style="text-align: center;">3</td>
-<td style="text-align: center;">4D</td>
 <td style="text-align: center;">4D + 1B</td>
 <td style="text-align: center;">4D + 2B</td>
 <td style="text-align: center;">4D + 3B</td>
 </tr>
 <tr>
 <td style="text-align: center;">4</td>
-<td style="text-align: center;">5D</td>
 <td style="text-align: center;">5D + 1B</td>
 <td style="text-align: center;">5D + 2B</td>
 <td style="text-align: center;">5D + 3B</td>
 </tr>
 <tr>
 <td style="text-align: center;">5</td>
-<td style="text-align: center;">6D</td>
 <td style="text-align: center;">6D + 1B</td>
 <td style="text-align: center;">6D + 2B</td>
 <td style="text-align: center;">6D + 3B</td>
@@ -448,9 +436,9 @@
 </table>
 <h2 id="grip">Grip</h2>
 <h3 id="one-handed">One-handed</h3>
-<p>The weapon makes it normal amount of damage. One-handed <em>medium</em> weapons add 1B and one-handed <em>heavy</em> weapons add 2B. Using a one-handed grip allows the other hand to e.g. hold a <a href="/potency/Arms%20%26%20Armour/Shields.html">shield</a> or another one-handed weapon.    </p>
+<p>The weapon makes it normal amount of damage. One-handed <em>light</em> weapons add 1B and one-handed <em>heavy</em> weapons add 2B. Using a one-handed grip allows the other hand to e.g. hold a <a href="/potency/Arms%20%26%20Armour/Shields.html">shield</a> or another one-handed weapon.    </p>
 <h3 id="two-handed">Two-handed</h3>
-<p>The weapon makes an additional <a href="/potency/Rolling%20Dice/Bonus%20Dice.html">bonus die</a> of damage. Two-handed <em>light</em> weapons add 1B, two-handed <em>medium</em> weapons add 2B, and two-handed <em>heavy</em> weapons add 3B.    </p>
+<p>The weapon makes an additional <a href="/potency/Rolling%20Dice/Bonus%20Dice.html">bonus die</a> of damage. Two-handed <em>light</em> weapons add 2B and two-handed <em>heavy</em> weapons add 3B to the physical damage roll.    </p>
 <blockquote>
 <p>Noomeron is using a longbow which is a <em>heavy</em>, two-handed weapon. When shooting with it, she will base the damage on her <em>ranged combat</em> of 4 and then add 3B for a total of 8D physical damage, including the <em>wild die</em>.   </p>
 </blockquote>
@@ -477,13 +465,13 @@
 
 </div>
 <div class="graph requires_js ">
-    <div id="A14082523393383240995908718001936532418{level}" class="graph_div"></div>
+    <div id="A136538161521904919027883627223837342325{level}" class="graph_div"></div>
     
     <div class="graph-button-row" style="display:flex;">
-        <button class="graph_button graph_show_button" id="B14082523393383240995908718001936532418{level}" level="{level}" note_temp_id="14082523393383240995908718001936532418" onclick="window.ObsHtmlGraph.run(this, '14082523393383240995908718001936532418', 'ranged weapons');">
+        <button class="graph_button graph_show_button" id="B136538161521904919027883627223837342325{level}" level="{level}" note_temp_id="136538161521904919027883627223837342325" onclick="window.ObsHtmlGraph.run(this, '136538161521904919027883627223837342325', 'ranged weapons');">
             Show Graph
         </button>
-        <button class="graph_button graph_type_button" id="C14082523393383240995908718001936532418{level}" style="flex:1" onclick="window.ObsHtmlGraph.switch_graph_type(this);">
+        <button class="graph_button graph_type_button" id="C136538161521904919027883627223837342325{level}" style="flex:1" onclick="window.ObsHtmlGraph.switch_graph_type(this);">
             2D
         </button>
     </div>

@@ -27,15 +27,10 @@ TBD
 ```
    
    
-## Berserker (TBD)   
+## Berserker   
 _Requires exertion 3 and resistance 3._   
-   
-_Some mechanic rewarding additional attacks at the expense of defence goes here._   
-   
-```
-TBD
-```
-   
+Frenzied and at the expense of your own safety, you relentlessly attack your foes.   
+By forgoing any [active](../Rolling%20Dice/Active%20vs%20Passive%20Rolls.md) _defence_ rolls this round, you may make an additional _melee combat_ or _unarmed combat_ attack without expending any [potential](../Rolling%20Dice/Potential.md). In addition, if you are using a [shield](../Arms%20%26%20Armour/Shields.md), you instead count it as a [light melee weapon](../Arms%20%26%20Armour/Melee%20Weapons.md) as you use it to bash your opponents rather than protect yourself.,   
    
 ## Careful Caster   
 _Requires any magical skill 3._   

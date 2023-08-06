@@ -1,8 +1,8 @@
 ---
-{}
+aliases: shared potential, shared potential pool
 ---
    
-During [Tense Time](../Game%20Modes/Tense%20Time.md), the players’ actors have access to a shared pool of potential which they can use to withdraw and deposit potential as needed.    
+During [tense time](../Game%20Modes/Tense%20Time.md), the players’ actors have access to a shared pool of [potential](../Rolling%20Dice/Potential.md) which they can use to withdraw and deposit potential as needed.    
    
 ## Depositing Potential   
 As an action, a player actor can deposit any amount of available [potential](../Rolling%20Dice/Potential.md) to the pool.   
