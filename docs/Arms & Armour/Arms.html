@@ -5,7 +5,7 @@
         <head>
                 <!-- Page information -->
                 <meta charset="UTF-8" />
-                <meta name="node_id" content="practical skills">
+                <meta name="node_id" content="arms">
                 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
                 <link rel="shortcut icon" href="/potency/favicon.ico" />
 
@@ -47,7 +47,7 @@
 
                 <!-- Onload tweaks -->
                 <script>
-                        const CURRENT_NODE = 'practical skills';
+                        const CURRENT_NODE = 'arms';
                         const HTML_URL_PREFIX = '/potency';
                         const PAGE_DEPTH = 1;
                 </script>
@@ -171,7 +171,7 @@
             }
         </script>
                                     <div class="graph_header_div requires_js">
-            <a id="graph_link" class="system-link" href="/potency/obs.html/graph/index.html?node=practical skills" title="Open fullpage Graph">
+            <a id="graph_link" class="system-link" href="/potency/obs.html/graph/index.html?node=arms" title="Open fullpage Graph">
                     <img class="graph_header_div_svg" src = "/potency/obs.html/static/graph.svg" alt="Open fullpage Graph" style="margin: 2px; width: 17px;"/>
             </a>
         </div>
@@ -208,10 +208,10 @@
     <div id="left_pane_fold_header" class="left_pane_fold_header fold_header">x</div>
     <div id="left_pane_content" class="left_pane_content">
             <div class="dirtree"><button id="folder-1" class="dir-button" onclick="toggle_dir(this.id)">Arms & Armour</button>
-<div id="folder-container-1" class="dir-container requires_js " path="/potency/Arms & Armour">
+<div id="folder-container-1" class="dir-container requires_js active" path="/potency/Arms & Armour">
 	<ul class="dir-list">
 		<li><a class="" href="/potency/Arms & Armour/Armour.html"  >Armour</a></li>
-		<li><a class="" href="/potency/Arms & Armour/Arms.html"  >Arms</a></li>
+		<li><a class="active" href="/potency/Arms & Armour/Arms.html"  >Arms</a></li>
 		<li><a class="" href="/potency/Arms & Armour/Melee Weapons.html"  >Melee Weapons</a></li>
 		<li><a class="" href="/potency/Arms & Armour/Ranged Weapons.html"  >Ranged Weapons</a></li>
 		<li><a class="" href="/potency/Arms & Armour/Shields.html"  >Shields</a></li>
@@ -342,12 +342,12 @@
 	</ul>
 </div>
 <button id="folder-13" class="dir-button" onclick="toggle_dir(this.id)">Skills</button>
-<div id="folder-container-13" class="dir-container requires_js active" path="/potency/Skills">
+<div id="folder-container-13" class="dir-container requires_js " path="/potency/Skills">
 	<ul class="dir-list">
 		<li><a class="" href="/potency/Skills/Combat Skills.html"  >Combat Skills</a></li>
 		<li><a class="" href="/potency/Skills/Intellectual Skills.html"  >Intellectual Skills</a></li>
 		<li><a class="" href="/potency/Skills/Physical Skills.html"  >Physical Skills</a></li>
-		<li><a class="active" href="/potency/Skills/Practical Skills.html"  >Practical Skills</a></li>
+		<li><a class="" href="/potency/Skills/Practical Skills.html"  >Practical Skills</a></li>
 		<li><a class="" href="/potency/Skills/Skill Level.html"  >Skill Level</a></li>
 		<li><a class="" href="/potency/Skills/Skills.html"  >Skills</a></li>
 		<li><a class="" href="/potency/Skills/Social Skills.html"  >Social Skills</a></li>
@@ -361,24 +361,45 @@
     </div>
 </div>
                         <div class="container">
-                                <embeddedtitle>Practical Skills</embeddedtitle>
-<div class="content"><h2 id="animal-handling">Animal Handling</h2>
-<p>Riding or driving any form of animal, ranging from horses, through carts pulled by oxen, to mighty dragons.   </p>
-<p>When attempting activities while mounted, the skills are limited by the actor’s level in <em>animal handling</em>.   </p>
-<h2 id="artistry">Artistry</h2>
-<p>The aptitude for artistic expressions, be it through song, dance, recital, or painting.   </p>
-<h2 id="crafting">Crafting</h2>
-<p>A broad skill covering all kinds of crafting skills such as carpentry, smithing, brewing, sewing, and so forth.   </p>
-<h2 id="seafaring">Seafaring</h2>
-<p>Handling any forms of ships, boats, and water craft. Akin to <em>survival</em> on the open water.   </p>
-<p>When attempting activities onboard a ship other than in calm weather, the skills are limited by the actor’s level in <em>seafaring</em>.   </p>
-<h2 id="survival">Survival</h2>
-<p>Living of the lands, knowing how to stay dry and safe in them, and navigating by stars and the environment.</p></div>
+                                <embeddedtitle>Arms</embeddedtitle>
+<div class="content"><h2 id="weapon-damage">Weapon Damage</h2>
+<p>The damage caused by a weapon is rolled against the target’s <em>resistance</em>. If the target’s <em>resistance</em> is overcome, it suffer a single <a href="/potency/Conditions/Conditions.html">wound</a>. In case of a <a href="/potency/Rolling%20Dice/Massive%20Success.html">massive success</a>, the target suffers two wounds.   </p>
+<h2 id="weapon-categories">Weapon Categories</h2>
+<p>There are two broad categories that weapons fall under; <a href="/potency/Arms%20%26%20Armour/Melee%20Weapons.html">melee weapons</a> and <a href="/potency/Arms%20%26%20Armour/Ranged%20Weapons.html">ranged weapons</a>. In addition, causing harm without using weapons falls under <a href="/potency/Arms%20%26%20Armour/Unarmed%20Combat.html">unarmed combat</a>.    </p>
+<h2 id="damage-type">Damage Type</h2>
+<p>A weapon’s damage type indicate the amount of <a href="/potency/Rolling%20Dice/Bonus%20Dice.html">bonus dice</a> that is added to the physical damage roll.   </p>
+<h3 id="light">Light</h3>
+<p>Light weapons add 1B to the physical damage roll. Most are <em>one-handed</em> and in general they tend to be much more inconspicuous than their heavier counterparts.   </p>
+<h3 id="medium">Medium</h3>
+<p>Medium weapons add 2B to the physical damage roll. Many are <em>hand-and-a-half</em> gripped.   </p>
+<h3 id="heavy">Heavy</h3>
+<p>Heavy weapons add 3B to the physical damage roll. They are almost always <em>two-handed</em> and of a very obvious martial nature.   </p>
+<h2 id="grip">Grip</h2>
+<p>A weapon’s grip determine whether one or two hands are needed to use the weapon. Wielding a weapon in both hands makes it impossible to also use a <a href="/potency/Arms%20%26%20Armour/Shields.html">shield</a> at the same time.    </p>
+<h3 id="one-handed-1h">One-Handed (1H)</h3>
+<p>One-handed weapons require a single hand to be used.   </p>
+<h3 id="two-handed-2h">Two-Handed (2H)</h3>
+<p>Two-handed weapons require both hands to be used.   </p>
+<h3 id="hand-and-a-half-1-2h">Hand-and-a-half (1-2H)</h3>
+<p>Hand-and-a-half weapons can be used either one-handed or two-handed.   </p>
+<h2 id="additional-weapon-properties">Additional Weapon Properties</h2>
+<p>Some weapons have a number of additional properties further defining them.   </p>
+<h3 id="missile">Missile</h3>
+<p>Missile weapons are <a href="/potency/Arms%20%26%20Armour/Ranged%20Weapons.html">ranged weapons</a> that are loaded with missiles that are launched.   </p>
+<h3 id="powerful">Powerful</h3>
+<p>Powerful weapons only requires to succeed against the target’s <em>resistance</em> by 5 or more to result in a <a href="/potency/Rolling%20Dice/Massive%20Success.html">massive success</a> that causes two <a href="/potency/Conditions/Wound.html">wounds</a>.   </p>
+<h3 id="slow">Slow</h3>
+<p>Slow weapons can only be used once per <a href="/potency/Game%20Modes/Rounds.html">round</a>. They require time to be readied before the next attack.   </p>
+<h3 id="thrown">Thrown</h3>
+<p>Thrown weapons are <a href="/potency/Arms%20%26%20Armour/Ranged%20Weapons.html">ranged weapons</a> with limited range.   </p>
+<h3 id="weak">Weak</h3>
+<p>Weak weapons inflicts <a href="/potency/Conditions/Fatigue.html">fatigue</a> rather than a <a href="/potency/Conditions/Wound.html">wound</a>. A <a href="/potency/Rolling%20Dice/Massive%20Success.html">massive success</a> results in a single <a href="/potency/Conditions/Wound.html">wound</a>.</p></div>
 <div class="note-footer">
 <div class="backlinks">
 <h2>Backlinks</h2>
 <ul>
-	<li><a class="backlink" href="/potency/Skills/Skills.html">skills</a></li>
+	<li><a class="backlink" href="/potency/Arms & Armour/Melee Weapons.html">melee weapons</a></li>
+	<li><a class="backlink" href="/potency/Arms & Armour/Ranged Weapons.html">ranged weapons</a></li>
 	<li><a class="backlink" href="/potency/index.html">index</a></li>
 </ul>
 </div>
@@ -389,13 +410,13 @@
 
 </div>
 <div class="graph requires_js ">
-    <div id="A258150468566453935199689328856815691653{level}" class="graph_div"></div>
+    <div id="A286537590464534824744870677827009647852{level}" class="graph_div"></div>
     
     <div class="graph-button-row" style="display:flex;">
-        <button class="graph_button graph_show_button" id="B258150468566453935199689328856815691653{level}" level="{level}" note_temp_id="258150468566453935199689328856815691653" onclick="window.ObsHtmlGraph.run(this, '258150468566453935199689328856815691653', 'practical skills');">
+        <button class="graph_button graph_show_button" id="B286537590464534824744870677827009647852{level}" level="{level}" note_temp_id="286537590464534824744870677827009647852" onclick="window.ObsHtmlGraph.run(this, '286537590464534824744870677827009647852', 'arms');">
             Show Graph
         </button>
-        <button class="graph_button graph_type_button" id="C258150468566453935199689328856815691653{level}" style="flex:1" onclick="window.ObsHtmlGraph.switch_graph_type(this);">
+        <button class="graph_button graph_type_button" id="C286537590464534824744870677827009647852{level}" style="flex:1" onclick="window.ObsHtmlGraph.switch_graph_type(this);">
             2D
         </button>
     </div>

@@ -9,7 +9,9 @@ Unless otherwise noted, acquiring a trait cost 7  [character points](../Characte
 Some traits also have certain prerequisites that needs to be fulfilled before acquiring the trait.   
    
 ## Arcane Initiate   
-You gain [skill level](../Skills/Skill%20Level.md) 1 (_untrained_) in the seven [magical aspects](../Magic/Aspects%20of%20Magic.md); _Agency_, _Cognition_, _Essence_, _Formation_, _Manifestation_, _Portation_, and _Sunderance_. This unlocks the possibility to further train the various [magical skills](../Magic/Aspects%20of%20Magic.md) as any other [skill](../Skills/Skills.md). You also gain the ability to cast very simple spells requiring no more than 3 [spell dice](../Magic/Components/Spell%20Dice.md) without making an [active](../Rolling%20Dice/Active%20vs%20Passive%20Rolls.md) spell roll.   
+You gain [skill level](../Skills/Skill%20Level.md) 1 (_untrained_) in the seven [magical aspects](../Magic/Aspects%20of%20Magic.md); _Agency_, _Cognition_, _Essence_, _Formation_, _Manifestation_, _Portation_, and _Sunderance_. This unlocks the possibility to further train the various [magical skills](../Magic/Aspects%20of%20Magic.md) as any other [skill](../Skills/Skills.md). You also gain the ability to cast very simple spells requiring no more than 3 [spell dice](../Magic/Components/Spell%20Dice.md) without making an [active](../Rolling%20Dice/Active%20vs%20Passive%20Rolls.md) spell roll, though potential still needs to be spent.   
+   
+> Lilly effortlessly ignited the air around the top of her staff, turning into a magical torch.   
    
 ## Armourer   
 _Requires exertion 3 or crafting 4._   
@@ -30,7 +32,7 @@ TBD
 ## Berserker   
 _Requires exertion 3 and resistance 3._   
 Frenzied and at the expense of your own safety, you relentlessly attack your foes.   
-By forgoing any [active](../Rolling%20Dice/Active%20vs%20Passive%20Rolls.md) _defence_ rolls this round, you may make an additional _melee combat_ or _unarmed combat_ attack without expending any [potential](../Rolling%20Dice/Potential.md). In addition, if you are using a [shield](../Arms%20%26%20Armour/Shields.md), you instead count it as a [light melee weapon](../Arms%20%26%20Armour/Melee%20Weapons.md) as you use it to bash your opponents rather than protect yourself.,   
+By forgoing any [active](../Rolling%20Dice/Active%20vs%20Passive%20Rolls.md) _defence_ rolls this round, you may make an additional _melee combat_ or _unarmed combat_ attack without expending any [potential](../Rolling%20Dice/Potential.md). In addition, if you are using a [shield](../Arms%20%26%20Armour/Shields.md), you instead count it as a [light melee weapon](../Arms%20%26%20Armour/Melee%20Weapons.md) as you use it to bash your opponents rather than protect yourself.   
    
 ## Careful Caster   
 _Requires any magical skill 3._   
@@ -41,7 +43,7 @@ When using magic, you have learnt to be wary of and avoid magical backlash. If a
 ## Deadly Accuracy   
 _Requires perception 3 and ranged combat 3._   
 With pinpoint accuracy, your missiles always seem to hit where it hurts the most.   
-You increase your physical damage caused by ranged weapons with 1B. If your physical damage already has 3B, you may instead re-roll a failed damage roll per turn.    
+You increase your physical damage caused by ranged weapons with 1B. If your physical damage already has 3B, your target instead adds 1M to their _resistance_ roll against the damage.    
    
 > Noomeron raised her bow, breathed out and hit the beast right between the eyes.   
    
@@ -62,7 +64,7 @@ TBD
 ## Heavy Hitter   
 _Requires exertion 3 and melee combat 3._   
 Your strength makes your blows strike harder than most.    
-You increase your physical damage caused by melee weapons with 1B. If your physical damage already has 3B, you may instead re-roll a failed damage roll per turn.   
+You increase your physical damage caused by melee weapons with 1B. If your physical damage already has 3B, your target instead adds 1M to their _resistance_ roll against the damage.   
    
 > Ever seen an enraged ogre swinging a tree trunk in your direction. Yes? Liar! You would be dead if you had!   
    
@@ -94,7 +96,7 @@ Your artistic talents inspire those around you to great feats. You can use your 
 ## Natural Weapons   
 _Requires exertion 3 and unarmed combat 3._   
 Through claws or fists, you are deadly even unarmed.   
-You increase your physical damage caused by unarmed strikes with 1B. If your physical damage already has 3B, you may instead re-roll a failed damage roll per turn.   
+You increase your physical damage caused by unarmed strikes with 1B. If your physical damage already has 3B, your target instead adds 1M to their _resistance_ roll against the damage.   
    
 > Aun the minotaur was a peaceful man, always eager to use his extensive skills of healing. However, when he had no choice but to resort to violence, his innate strength subsequently made his skills of healing all the more needed.   
    
@@ -122,6 +124,8 @@ You are smaller than most and as such you lack the physicality to wield heavy we
 _Requires any magical skill 3._   
 When [sustaining](../Magic/Components/Sustain.md) a spell, you expend less [potential](../Rolling%20Dice/Potential.md) than other casters.    
 Calculate [sustain](../Magic/Components/Sustain.md) as 1/2 of the [spell dice](../Magic/Components/Spell%20Dice.md), rounded.   
+   
+> Lilly is sustaining a spell that was cast using 6 spell dice. Normally it would take 4P to sustain it during subsequent rounds, but her Sustainable Spells trait reduces it to 3P.   
    
 ## Wild Magic   
 _Free trait. Requires any magical skill 1._   

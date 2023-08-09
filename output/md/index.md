@@ -2,6 +2,7 @@
 {}
 ---
    
+* [What is Potency?](./What%20is%20Potency%3F.md)   
 * [Composing a Roll](./Rolling%20Dice/Composing%20a%20Roll.md)   
 	* [Wild Die](./Rolling%20Dice/Wild%20Die.md)   
 	* [Potential](./Rolling%20Dice/Potential.md)   
@@ -36,8 +37,8 @@
 		* [Character Points](./Character%20Options/Character%20Points.md)   
 		* [Sapient Species](./Character%20Options/Sapient%20Species.md)   
 	* [Fortune Points](./Rolling%20Dice/Fortune%20Points.md)   
-* [Arms & Armour](./Arms%20%26%20Armour/Arms%20%26%20Armour.md)   
-	* Weapons   
+* Arms & Armour   
+	* [Arms](./Arms%20%26%20Armour/Arms.md)   
 		* [Melee Weapons](./Arms%20%26%20Armour/Melee%20Weapons.md)   
 		* [Ranged Weapons](./Arms%20%26%20Armour/Ranged%20Weapons.md)    
 		* [Unarmed Combat](./Arms%20%26%20Armour/Unarmed%20Combat.md)   

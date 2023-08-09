@@ -2,45 +2,45 @@
 aliases: melee weapon, melee weapons
 ---
    
-_Melee weapons_ are either _light_ or _heavy_. In general, _light_ weapons tends to be much more inconspicuous than their heavier counterparts, with _heavy_ weapons almost exclusively being of a very obvious martial nature.   
+| Name          | Grip | Damage Type | Group        |   
+|:------------- |:----:|:----------- |:------------ |   
+| Battle Axe    | 1-2H | Medium      | Axes         |   
+| Club          |  1H  | Light       | Bludgeons    |   
+| Mace          |  1H  | Medium      | Bludgeons    |   
+| Maul          |  2H  | Heavy       | Bludgeons    |   
+| Quarterstaff  |  2H  | Light       | Bludgeons    |   
+| Warhammer     | 1-2H | Medium      | Bludgeons    |   
+| Glaive        |  2H  | Heavy       | Polearms     |   
+| Halberd       |  2H  | Heavy       | Polearms     |   
+| Dagger        |  1H  | Light       | Short Blades |   
+| Shortsword    |  1H  | Light       | Short Blades |   
+| Pike          |  2H  | Heavy       | Spears       |   
+| Spear         | 1-2H | Medium      | Spears       |   
+| Arming Sword  |  1H  | Medium      | Swords       |   
+| Bastard Sword | 1-2H | Medium      | Swords       |   
+| Falchion      |  1H  | Medium      | Swords       |   
+| Greatsword    |  2H  | Heavy       | Swords       |   
+| Longsword     |  2H  | Medium      | Swords       |   
+| Rapier        |  1H  | Medium      | Swords       |   
    
-When determining the physical damage caused by a melee attack, combine the [actor](/not_created.md)’s [skill level](../Skills/Skill%20Level.md) in _melee combat_ with the damage bonus for the weapon used. The number of [bonus dice](../Rolling%20Dice/Bonus%20Dice.md) is determined by the weapon’s type and the way it is gripped. Note that any [bonus dice](../Rolling%20Dice/Bonus%20Dice.md) applied to the _melee combat_ roll made to hit the target are not made a part of the damage roll.   
    
-| Type  | Grip | Damage Bonus | Examples                                  |   
-|:----- |:----:|:------------:|:----------------------------------------- |   
-| Light |  1H  |      1B      | Club, Dagger, Shortsword                  |   
-| Light |  2H  |      2B      | Dual daggers, Quarterstaff, Spear         |   
-| Heavy |  1H  |      2B      | Arming Sword, Mace, Warhammer             |   
-| Heavy |  2H  |      3B      | Axe and Sword, Glaive, Halberd, Longsword |   
+## Melee Weapon Damage   
+When determining the physical damage caused by a melee attack, combine the [actor](/not_created.md)’s [skill level](../Skills/Skill%20Level.md) in _melee combat_ with the [damage type](../Arms%20%26%20Armour/Arms.md) for the weapon used. Note that any [bonus dice](../Rolling%20Dice/Bonus%20Dice.md) applied to the _melee combat_ roll made to hit the target are not made a part of the damage roll.   
    
+| Melee Combat |  Light  | Medium  |  Heavy  |   
+|:------------:|:-------:|:-------:|:-------:|   
+|      1       | 2D + 1B | 2D + 2B | 2D + 3B |   
+|      2       | 3D + 1B | 3D + 2B | 3D + 3B |   
+|      3       | 4D + 1B | 4D + 2B | 4D + 3B |   
+|      4       | 5D + 1B | 5D + 2B | 5D + 3B |   
+|      5       | 6D + 1B | 6D + 2B | 6D + 3B |   
    
-| Melee Combat | 1H Light | 2H Light/1H Heavy | 2H Heavy |   
-|:------------:|:------------------:|:------------------:|:--------:|   
-|      1       |      2D + 1B       |      2D + 2B       | 2D + 3B  |   
-|      2       |      3D + 1B       |      3D + 2B       | 3D + 3B  |   
-|      3       |      4D + 1B       |      4D + 2B       | 4D + 3B  |   
-|      4       |      5D + 1B       |      5D + 2B       | 5D + 3B  |   
-|      5       |      6D + 1B       |      6D + 2B       | 6D + 3B  |   
+## Two-handed Melee Weapons   
+When using a melee weapon with both hands, the weapon also gains the [weapon property](../Arms%20%26%20Armour/Arms.md) _powerful_.   
    
-## Grip   
-   
-### One-handed   
-The weapon makes it normal amount of damage. One-handed _medium_ weapons add 1B and one-handed _heavy_ weapons add 2B. This allows the other hand to e.g. hold a [shield](../Arms%20%26%20Armour/Shields.md) or another one-handed weapon.    
-   
-### Two-handed   
-The weapon makes an additional [bonus die](../Rolling%20Dice/Bonus%20Dice.md) of damage. Two-handed _light_ weapons add 2B and two-handed _heavy_ weapons add 3B to the physical damage roll.   
-   
-> Hilda of Kullsala grips her _light_, winged spear with both hands. When thrusting with it, she will base the damage on her _melee combat_ of 3 and add 2B for a total of 6D physical damage, including the _wild die_.   
+> Hilda of Kullsala grips her _medium_, winged spear with both hands. When thrusting with it, she will base the damage on her _melee combat_ of 3 and add 2B for a total of 6D physical damage, including the _wild die_. If the damage roll beats her target’s _resistance_ by 5 or more, it is treated as a _massive success_, causing two _wounds_.   
    
 ### Dual Wielding   
-Using a pair of _light_ weapons counts as using a _light_ weapon two-handed. Add 2B to the damage roll.   
+Using a pair of one-handed melee weapons counts as using a two-handed weapon. Use the [damage type](../Arms%20%26%20Armour/Arms.md) for the heaviest of the two weapons being wieleded.     
    
-Using a pair of _heavy_ weapons or combining a _heavy_ with a _light_ weapon is treated as using a _heavy_ weapon two-handed. Add 3B to the damage roll.   
-   
-> Amgus is attacked by a raging bandit swinging an axe and a dagger, the former being a _heavy_ weapon and the latter a _light_ weapon. If the bandit hits, she may add 3B to her damage roll as the pair of weapons is counted as being a two-handed _heavy_ weapon.   
-   
-## Reach   
-   
-```
-TBD
-```
+> Amgus is attacked by a raging bandit swinging an axe and a dagger, the former being a _medium_ weapon and the latter a _light_ weapon. If the bandit hits, she may add 2B to her damage roll and will cause two wounds if she beats Amgus’ _resistance_ by 5 as the pair of weapons is counted as being a two-handed _medium weapon.
