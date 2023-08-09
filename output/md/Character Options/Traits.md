@@ -34,6 +34,8 @@ _Requires exertion 3 and resistance 3._
 Frenzied and at the expense of your own safety, you relentlessly attack your foes.   
 By forgoing any [active](../Rolling%20Dice/Active%20vs%20Passive%20Rolls.md) _defence_ rolls this round, you may make an additional _melee combat_ or _unarmed combat_ attack without expending any [potential](../Rolling%20Dice/Potential.md). In addition, if you are using a [shield](../Arms%20%26%20Armour/Shields.md), you instead count it as a [light melee weapon](../Arms%20%26%20Armour/Melee%20Weapons.md) as you use it to bash your opponents rather than protect yourself.   
    
+> The berendakian warrior went berserk, swinging all around her with her battle axe and round shield. Normally they would count as a one-handed medium weapon and a medium shield, but now they were used to dual wield a medium and a light weapon.   
+   
 ## Careful Caster   
 _Requires any magical skill 3._   
 When using magic, you have learnt to be wary of and avoid magical backlash. If a [massive failure](../Rolling%20Dice/Massive%20Failure.md) to cast a spell would cause you [fatigue](../Conditions/Fatigue.md), you ignore it. If a [massive failure](../Rolling%20Dice/Massive%20Failure.md) instead would cause you a [wound](../Conditions/Wound.md), you instead sustain [fatigue](../Conditions/Fatigue.md).    
@@ -53,13 +55,8 @@ You gain 1B for any [initiative](../Game%20Modes/Rolling%20Initiative.md) rolls 
    
 > Alexander drew his wavy black blade and struck before anyone else had time to react.   
    
-## Fortunate (TBD)   
-You are luckier than most. _Some mechanic rewarding additional Fortune Points goes here._   
-   
-```
-TBD
-```
-   
+## Fortunate   
+You are luckier than most. Whenever you would normally gain a [fortune point](../Rolling%20Dice/Fortune%20Points.md) through non-magical means, you instead gain two points   
    
 ## Heavy Hitter   
 _Requires exertion 3 and melee combat 3._   
@@ -74,6 +71,11 @@ You know not of the magical arts and aspects. You know not how to wield magic. Y
 You gain the unique [magical skill](../Magic/Aspects%20of%20Magic.md) _Innate Magic_ at [skill level](../Skills/Skill%20Level.md) 3. You cannot train this skill further.   
    
 Create a spell that uses no more than 2 [magical aspects](../Magic/Aspects%20of%20Magic.md), no more than 9 [spell dice](../Magic/Components/Spell%20Dice.md), and does not require a [skill level](../Skills/Skill%20Level.md) higher than 3. You do not need to know the aspects involved and can cast this spell using _Innate Magic_.   
+   
+```
+TBD: allow multiple spells as long as they combined don’t exceed 10 spell dice?
+```
+   
    
 > Not everyone is this world learns magic by studying it. Some are born with it, though they might only master a fraction of the arts. Ever noticed how the village healer seems to be able to just lay her hands on a wound and concentrate to close it? If that is not some form of innate magic at work, I don't know what it is!   
    
