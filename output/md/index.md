@@ -45,7 +45,6 @@
 	* Protection   
 		* [Armour](./Arms%20%26%20Armour/Armour.md)   
 		* [Shields](./Arms%20%26%20Armour/Shields.md)   
-* [Opposed Rolls](./Rolling%20Dice/Opposed%20Rolls.md)   
 * [Passive Value](./Rolling%20Dice/Passive%20Value.md)   
 	* [Forced Passive Value](./Rolling%20Dice/Forced%20Passive%20Value.md)   
 * [Movement](./Movement/Movement.md) (using the skill *movement*)   

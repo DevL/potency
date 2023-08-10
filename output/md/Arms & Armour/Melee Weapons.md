@@ -25,7 +25,7 @@ aliases: melee weapon, melee weapons
    
    
 ## Melee Weapon Damage   
-When determining the physical damage caused by a melee attack, combine the [actor](/not_created.md)’s [skill level](../Skills/Skill%20Level.md) in _melee combat_ with the [damage type](../Arms%20%26%20Armour/Arms.md) for the weapon used. Note that any [bonus dice](../Rolling%20Dice/Bonus%20Dice.md) applied to the _melee combat_ roll made to hit the target are not made a part of the damage roll.   
+When determining the physical damage caused by a melee attack, combine the [actor](../Rolling%20Dice/Actors.md)’s [skill level](../Skills/Skill%20Level.md) in _melee combat_ with the [damage type](../Arms%20%26%20Armour/Arms.md) for the weapon used. Note that any [bonus dice](../Rolling%20Dice/Bonus%20Dice.md) applied to the _melee combat_ roll made to hit the target are not made a part of the damage roll.   
    
 | Melee Combat |  Light  | Medium  |  Heavy  |   
 |:------------:|:-------:|:-------:|:-------:|   
