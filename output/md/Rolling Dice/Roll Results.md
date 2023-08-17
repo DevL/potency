@@ -17,14 +17,16 @@ Compare the result of an [active or passive](../Rolling%20Dice/Active%20vs%20Pas
 ## Additional Effects of Success or Failure   
 Most of the time, the effects of succeeding or failing a particular roll are obvious or can be determined by the gamemaster. However, some rolls have additional effects applied depending on what kind of roll is made and the degree of success or failure acheived.   
    
-| Type of Roll    | Result          | Effect                                     |   
-|:--------------- |:--------------- |:------------------------------------------ |   
-| Mundane skill   | Massive Failure | Gain a [fortune point](../Rolling%20Dice/Fortune%20Points.md).  |   
-| Mundane skill   | Massive Success | Gain a [fortune point](../Rolling%20Dice/Fortune%20Points.md).  |   
-| Mental Damage   | Success         | A point of [fatigue](../Conditions/Fatigue.md) is caused. |   
-| Mental Damage   | Massive Success | A [wound](../Conditions/Wound.md) is caused.              |   
-| Physical Damage | Success         | A [wound](../Conditions/Wound.md) is caused.              |   
-| Physical Damage | Massive Success | Two [wounds](../Conditions/Wound.md) are caused.          |   
-| Passive         | Any             | No additional effect.                      |   
-| Spellcasting    | Massive Failure | A point of [fatigue](../Conditions/Fatigue.md) is sustained.                    |   
-| Spellcasting    | Massive Success | Add a [bonus die](../Rolling%20Dice/Bonus%20Dice.md) to the [spell effect](../Magic/Components/Effect.md). |
+| Type of Roll    | Result          | Effect                                                      |   
+|:--------------- |:--------------- |:----------------------------------------------------------- |   
+| Healing         | Massive Failure | Aggravates the condition by a degree of severity.           |   
+| Healing         | Massive Success | Treats the condtion and reduces it by a degree of severity. |   
+| Mental Damage   | Success         | A point of [fatigue](../Conditions/Fatigue.md) is caused.                  |   
+| Mental Damage   | Massive Success | A [wound](../Conditions/Wound.md) is caused.                               |   
+| Mundane skill   | Massive Failure | Gain a [fortune point](../Rolling%20Dice/Fortune%20Points.md).                   |   
+| Mundane skill   | Massive Success | Gain a [fortune point](../Rolling%20Dice/Fortune%20Points.md).                   |   
+| Passive         | Any             | No additional effect.                                       |   
+| Physical Damage | Success         | A [wound](../Conditions/Wound.md) is caused.                               |   
+| Physical Damage | Massive Success | Two [wounds](../Conditions/Wound.md) are caused.                           |   
+| Spellcasting    | Massive Failure | A point of [fatigue](../Conditions/Fatigue.md) is sustained.               |   
+| Spellcasting    | Massive Success | Gain a [fortune point](../Rolling%20Dice/Fortune%20Points.md).                   |

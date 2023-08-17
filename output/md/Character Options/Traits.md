@@ -8,7 +8,10 @@ Unless otherwise noted, acquiring a trait cost 7  [character points](../Characte
    
 Some traits also have certain prerequisites that needs to be fulfilled before acquiring the trait.   
    
-## Arcane Initiate   
+   
+   
+   
+## ~~Arcane Initiate~~   
 You gain [skill level](../Skills/Skill%20Level.md) 1 (_untrained_) in the seven [magical aspects](../Magic/Aspects%20of%20Magic.md); _Agency_, _Cognition_, _Essence_, _Formation_, _Manifestation_, _Portation_, and _Sunderance_. This unlocks the possibility to further train the various [magical skills](../Magic/Aspects%20of%20Magic.md) as any other [skill](../Skills/Skills.md). You also gain the ability to cast very simple spells requiring no more than 3 [spell dice](../Magic/Components/Spell%20Dice.md) without making an [active](../Rolling%20Dice/Active%20vs%20Passive%20Rolls.md) spell roll, though potential still needs to be spent.   
    
 > Lilly effortlessly ignited the air around the top of her staff, turning into a magical torch.   
@@ -18,6 +21,16 @@ _Requires exertion 3 or crafting 4._
 You are used to wearing and adjusting armour to fit your needs. When wearing armour, apply the negative conditions from armour that is one grade lighter than the one you are wearing. Wearing light armour imposes no negative conditions.   
    
 > A heavily armoured dwarf is a neither swift, nor quiet affair. And yet, Draggomir moved with an uncanny speed and silence that someone in heavy dwarven mail should not be capable of.    
+   
+## Aspect of Agency   
+You have begun to learn the secrets of the [magical aspect](../Magic/Aspects%20of%20Magic.md) of *Agency*. You can create and learn spells that require this aspect at a cost of 1 [character point](../Character%20Options/Character%20Points.md) to gain [skill level](../Skills/Skill%20Level.md) 1 (untrained) in it. Furthermore, you can increase the spell's [skill level](../Skills/Skill%20Level.md) just like any other [skill](../Skills/Skills.md).   
+   
+## Aspect of Cognition   
+You have begun to learn the secrets of the [magical aspect](../Magic/Aspects%20of%20Magic.md) of *Cognition*. You can create and learn spells that require this aspect at a cost of 1 [character point](../Character%20Options/Character%20Points.md) to gain [skill level](../Skills/Skill%20Level.md) 1 (untrained) in it. Furthermore, you can increase the spell's [skill level](../Skills/Skill%20Level.md) just like any other [skill](../Skills/Skills.md).   
+   
+## Aspect of Essence   
+You have begun to learn the secrets of the [magical aspect](../Magic/Aspects%20of%20Magic.md) of *Essence*. You can create and learn spells that require this aspect at a cost of 1 [character point](../Character%20Options/Character%20Points.md) to gain [skill level](../Skills/Skill%20Level.md) 1 (untrained) in it. Furthermore, you can increase the spell's [skill level](../Skills/Skill%20Level.md) just like any other [skill](../Skills/Skills.md).   
+   
    
 ## Backstabber (TBD)   
 _Requires melee combat 3 and stealth 3._   
@@ -70,7 +83,7 @@ You know not of the magical arts and aspects. You know not how to wield magic. Y
    
 You gain the unique [magical skill](../Magic/Aspects%20of%20Magic.md) _Innate Magic_ at [skill level](../Skills/Skill%20Level.md) 3. You cannot train this skill further.   
    
-Create a spell that uses no more than 2 [magical aspects](../Magic/Aspects%20of%20Magic.md), no more than 9 [spell dice](../Magic/Components/Spell%20Dice.md), and does not require a [skill level](../Skills/Skill%20Level.md) higher than 3. You do not need to know the aspects involved and can cast this spell using _Innate Magic_.   
+Create a spell that uses no more than a single [magical aspect](../Magic/Aspects%20of%20Magic.md), no more than 9 [spell dice](../Magic/Components/Spell%20Dice.md), and does not require a [skill level](../Skills/Skill%20Level.md) higher than 3. You do not need to know the aspect involved and can cast this spell using _Innate Magic_.   
    
 ```
 TBD: allow multiple spells as long as they combined don’t exceed 10 spell dice?

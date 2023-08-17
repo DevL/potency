@@ -3,6 +3,11 @@ aliases: magic, magical skill, magical skills, magical aspect, magical aspects, 
   of magic, aspects of magic
 ---
    
+```
+FIXME: Reduce the aspects from 7 to 3 (ACE) and have them as traits. Each spell is a separate magical skill.
+```
+   
+   
 ## The Nature of Magic   
    
 >  _Casting a spell is essentially the act of transforming potential into a change of reality. To some, it is reaching out with your mind and strength of will instead of your arm and strength of body. To others it is feeling the flow of potential, gently guiding it towards the outcome desired. And there are those that lie to the world itself, tricking it into being something it is not. Personally, I like to think of the potential as a boulder resting on top of a hill that with great effort can be put into motion and start its descent. But be wary, lest the single rolling boulder turns into an uncontrollable landslide. This is why you must study diligently here at the Learned's Guild!_   
@@ -18,6 +23,14 @@ Magic is the catch-all name given to acts using [potential](../Rolling%20Dice/Po
 > _Unlike what my esteemed colleague Xax claim, it **is** possible to create something out of nothing, or at least out of pure potential. However, the process to do so starts with manifesting potential in the forms of agency, cognition, essence, or all three. Initially, these manifestations will be little more than mere illusions, but over time, as reality itself is tricked into believing in the illusions, they can become just as real as you and me._   
 >    
 > – Naelasti, formerly Custodian of the Learned's Guild in An'Taellon before the fall of the city   
+   
+```
+TODO
+* Switch from 7 to 3 aspects.
+* Unlock aspects using three traits?
+* Character Points cost per spell instead of skill?
+```
+   
    
 ## The Seven Aspects   
    
