@@ -18,4 +18,8 @@ Depending on the level of play, consult the table below for the amount of [poten
 In accordance with what is allowed by your [careers](../Character%20Options/Careers.md), use your [character points](../Character%20Options/Character%20Points.md) to increase [mundane skills](../Skills/Skills.md), increase [magical skills](../Magic/Aspects%20of%20Magic.md), and obtain [talents](../Character%20Options/Talents.md). You may also acquire various [traits](../Character%20Options/Traits.md) as long as you fulfil the prerequisites for a given trait.   
    
 ## Select arms & armour   
-Unless otherwise stated by the gamemaster, there are no general limitations on what equipment a character can have when they begin their adventures. Make sure to have a conversation with your gamemaster though - especially if you wish to have something magical or very expensive.
+Unless otherwise stated by the gamemaster, there are no general limitations on what equipment a character can have when they begin their adventures. Make sure to have a conversation with your gamemaster though - especially if you wish to have something magical or very expensive.   
+   
+```
+TBD: Rework using "Raises"
+```

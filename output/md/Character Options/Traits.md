@@ -8,6 +8,9 @@ Unless otherwise noted, acquiring a trait cost 7  [character points](../Characte
    
 Some traits also have certain prerequisites that needs to be fulfilled before acquiring the trait.   
    
+```
+TBD: Rework using "Raises"
+```
    
    
    
@@ -69,8 +72,7 @@ You gain 1B for any [initiative](../Game%20Modes/Rolling%20Initiative.md) rolls 
 > Alexander drew his wavy black blade and struck before anyone else had time to react.   
    
 ## Fortunate   
-You are luckier than most. Whenever you would normally gain a [fortune point](../Rolling%20Dice/Fortune%20Points.md) through non-magical means, you instead gain two points   
-   
+You are luckier than most. Whenever you would normally gain a [fortune point](../Rolling%20Dice/Fortune%20Points.md) through non-magical means, you instead gain two points.   
 ## Heavy Hitter   
 _Requires exertion 3 and melee combat 3._   
 Your strength makes your blows strike harder than most.    
