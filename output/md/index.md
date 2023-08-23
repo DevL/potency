@@ -34,7 +34,7 @@
 		* [Careers](./Character%20Options/Careers.md)   
 		* [Talents](./Character%20Options/Talents.md)   
 		* [Traits](./Character%20Options/Traits.md)   
-		* [Character Points](./Character%20Options/Character%20Points.md)   
+		* [Skill Dice](./Character%20Options/Skill%20Dice.md)   
 		* [Sapient Species](./Character%20Options/Sapient%20Species.md)   
 	* [Fortune Points](./Rolling%20Dice/Fortune%20Points.md)   
 * Arms & Armour   

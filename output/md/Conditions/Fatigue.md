@@ -6,4 +6,4 @@ A condition reducing the available [potential](../Rolling%20Dice/Potential.md) b
    
 Requires a [recovery](../Conditions/Recovery.md) period to be removed.   
    
-Counts towards being knocked-out.
+Counts towards being [knocked-out](../Conditions/Knocked-Out.md).

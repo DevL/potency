@@ -2,7 +2,7 @@
 aliases: condition, conditions
 ---
    
-* [Encumberance](../Conditions/Encumberance.md)   
+* [Encumbrance](../Conditions/Encumbrance.md)   
 * [Fatigue](../Conditions/Fatigue.md)   
 * [Hinderance](../Conditions/Hinderance.md)   
 * [Knocked-Out](../Conditions/Knocked-Out.md)   
