@@ -14,6 +14,11 @@ Depending on the level of play, consult the table below for the amount of [poten
 | Veteran       |        15 |    120     |       5 |         5 |                 7 |   
 | Heroic        |        20 |    180     |       8 |         5 |                10 |   
    
+```
+TBD: Rebalance the starting capabilities with regards to careers, potential etc
+```
+   
+   
 ## Spending Skill Dice   
 In accordance with what is allowed by your [careers](../Character%20Options/Careers.md), use your [skill dice](../Character%20Options/Skill%20Dice.md) to increase [mundane skills](../Skills/Skills.md), increase [magical skills](../Magic/Aspects%20of%20Magic.md), and obtain possibly develop [talents](../Character%20Options/Talents.md). You may also acquire various [traits](../Character%20Options/Traits.md) as long as you fulfil the prerequisites for a given trait.   
    
