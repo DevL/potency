@@ -1,5 +1,5 @@
 ---
-{}
+aliases: social skill, social skills
 ---
    
 ## Deception   

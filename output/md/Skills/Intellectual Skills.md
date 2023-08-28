@@ -1,5 +1,5 @@
 ---
-{}
+aliases: intellectual skill, intellectual skills
 ---
    
 ## Devices   

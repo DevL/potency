@@ -26,13 +26,13 @@ You are used to wearing and adjusting armour to fit your needs. When wearing arm
 > A heavily armoured dwarf is a neither swift, nor quiet affair. And yet, Draggomir moved with an uncanny speed and silence that someone in heavy dwarven mail should not be capable of.    
    
 ## Aspect of Agency   
-You have begun to learn the secrets of the [magical aspect](../Magic/Aspects%20of%20Magic.md) of *Agency*. You can create and learn spells that require this aspect at a cost of 1 [character point](../Character%20Points.md) to gain [skill level](../Skills/Skill%20Level.md) 1 (untrained) in it. Furthermore, you can increase the spell's [skill level](../Skills/Skill%20Level.md) just like any other [skill](../Skills/Skills.md).   
+You have begun to learn the secrets of the [magical aspect](../Magic/Aspects%20of%20Magic.md) of *Agency*. You can create and learn spells that require this aspect at a cost of 1 [character point](/not_created.md) to gain [skill level](../Skills/Skill%20Level.md) 1 (untrained) in it. Furthermore, you can increase the spell's [skill level](../Skills/Skill%20Level.md) just like any other [skill](../Skills/Skills.md).   
    
 ## Aspect of Cognition   
-You have begun to learn the secrets of the [magical aspect](../Magic/Aspects%20of%20Magic.md) of *Cognition*. You can create and learn spells that require this aspect at a cost of 1 [character point](../Character%20Points.md) to gain [skill level](../Skills/Skill%20Level.md) 1 (untrained) in it. Furthermore, you can increase the spell's [skill level](../Skills/Skill%20Level.md) just like any other [skill](../Skills/Skills.md).   
+You have begun to learn the secrets of the [magical aspect](../Magic/Aspects%20of%20Magic.md) of *Cognition*. You can create and learn spells that require this aspect at a cost of 1 [character point](/not_created.md) to gain [skill level](../Skills/Skill%20Level.md) 1 (untrained) in it. Furthermore, you can increase the spell's [skill level](../Skills/Skill%20Level.md) just like any other [skill](../Skills/Skills.md).   
    
 ## Aspect of Essence   
-You have begun to learn the secrets of the [magical aspect](../Magic/Aspects%20of%20Magic.md) of *Essence*. You can create and learn spells that require this aspect at a cost of 1 [character point](../Character%20Points.md) to gain [skill level](../Skills/Skill%20Level.md) 1 (untrained) in it. Furthermore, you can increase the spell's [skill level](../Skills/Skill%20Level.md) just like any other [skill](../Skills/Skills.md).   
+You have begun to learn the secrets of the [magical aspect](../Magic/Aspects%20of%20Magic.md) of *Essence*. You can create and learn spells that require this aspect at a cost of 1 [character point](/not_created.md) to gain [skill level](../Skills/Skill%20Level.md) 1 (untrained) in it. Furthermore, you can increase the spell's [skill level](../Skills/Skill%20Level.md) just like any other [skill](../Skills/Skills.md).   
    
 ## Backstabber (TBD)   
 _Requires melee combat 3 and stealth 3._   

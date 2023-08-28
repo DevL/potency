@@ -1,5 +1,5 @@
 ---
-{}
+aliases: practical skill, practical skills
 ---
    
 ## Animal Handling   

@@ -1,5 +1,5 @@
 ---
-{}
+aliases: physical skill, physical skills
 ---
    
 ## Exertion   

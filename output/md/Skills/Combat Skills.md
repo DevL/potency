@@ -1,5 +1,5 @@
 ---
-{}
+aliases: combat skill, combat skills
 ---
    
 ## Defence   
