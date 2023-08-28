@@ -59,6 +59,12 @@ When using magic, you have learnt to be wary of and avoid magical backlash. If a
    
 ## Deadly Accuracy   
 _Requires perception 3 and ranged combat 3._   
+   
+```
+REWORK: use max potential for damage, even if less was used for the attack.
+```
+   
+   
 With pinpoint accuracy, your missiles always seem to hit where it hurts the most.   
 You increase your physical damage caused by ranged weapons with 1B. If your physical damage already has 3B, your target instead adds 1M to their _resistance_ roll against the damage.    
    
@@ -72,8 +78,15 @@ You gain 1B for any [initiative](../Game%20Modes/Rolling%20Initiative.md) rolls 
    
 ## Fortunate   
 You are luckier than most. Whenever you would normally gain a [fortune point](../Rolling%20Dice/Fortune%20Points.md) through non-magical means, you instead gain two points.   
+   
 ## Heavy Hitter   
 _Requires exertion 3 and melee combat 3._   
+   
+```
+REWORK: use max potential for damage, even if less was used for the attack.
+```
+   
+   
 Your strength makes your blows strike harder than most.    
 You increase your physical damage caused by melee weapons with 1B. If your physical damage already has 3B, your target instead adds 1M to their _resistance_ roll against the damage.   
    
@@ -102,6 +115,15 @@ Once the [real time](../Game%20Modes/Real%20Time.md) event transitions into anot
 At no point does this trait counteract the effect of being knocked out by too many cumulative [conditions](../Conditions/Conditions.md).   
    
 > Draggomir, having already sustained two levels of _fatigue_, gets hit by a giant and would usually be grievously wounded, suffering two _wounds_. However, he miraculously makes his _willpower_ roll, granted by his _iron will_, by rolling 22 against the necessary 20. He can thus ignore the detrimental effects of all conditions wound, but it still counts against the amount of conditions needed to be lost before being knocked out.   
+   
+## Martial Artist   
+_Requires movement 3 and unarmed combat 3._   
+   
+```
+REWORK: use max potential for damage, even if less was used for the attack.
+```
+   
+   
    
 ## Muse   
 _Requires artistry 3._   

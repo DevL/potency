@@ -1,5 +1,6 @@
 ---
-aliases: career, careers
+aliases: career, careers, primary skill, primary skills, secondary skill, secondary
+  skills
 ---
    
 Creating a character involves spending [skill dice](../Character%20Options/Skill%20Dice.md) in three or more steps; early life and two or more careers.   
