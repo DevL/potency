@@ -6,7 +6,7 @@ A skill dice can be used to improve the [skill level](../Skills/Skill%20Level.md
    
 Note that no [wild die](../Rolling%20Dice/Wild%20Die.md) is used for this roll.   
    
-As an alternative to rolling, it is possible to automatically increase a [skill](../Skills/Skills.md) one level by paying as many skill dice as the new [skill level](../Skills/Skill%20Level.md). Since no roll is made, it is not possible to develop a [talent](../Character%20Options/Talents.md) using this option.   
+When [Improving a Character](../Character%20Options/Improving%20a%20Character.md) past [character creation](../Character%20Options/Creating%20a%20Character.md), as an alternative to rolling, it is possible to automatically increase a [skill](../Skills/Skills.md) one level by paying as many skill dice as the new [skill level](../Skills/Skill%20Level.md). Since no roll is made, it is not possible to develop a [talent](../Character%20Options/Talents.md) using this option.   
    
 | Current Skill Level | Required for Increase | Required for Talent | Skill Dice for Automatic Increase |   
 |:-------------------:|:---------------------:|:-------------------:|:---------------------------------:|   

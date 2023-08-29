@@ -25,14 +25,14 @@ You are used to wearing and adjusting armour to fit your needs. When wearing arm
    
 > A heavily armoured dwarf is a neither swift, nor quiet affair. And yet, Draggomir moved with an uncanny speed and silence that someone in heavy dwarven mail should not be capable of.    
    
-## Aspect of Agency   
+## ~~Aspect of Agency~~   
 You have begun to learn the secrets of the [magical aspect](../Magic/Aspects%20of%20Magic.md) of *Agency*. You can create and learn spells that require this aspect at a cost of 1 [character point](/not_created.md) to gain [skill level](../Skills/Skill%20Level.md) 1 (untrained) in it. Furthermore, you can increase the spell's [skill level](../Skills/Skill%20Level.md) just like any other [skill](../Skills/Skills.md).   
    
-## Aspect of Cognition   
+## ~~Aspect of Cognition~~   
 You have begun to learn the secrets of the [magical aspect](../Magic/Aspects%20of%20Magic.md) of *Cognition*. You can create and learn spells that require this aspect at a cost of 1 [character point](/not_created.md) to gain [skill level](../Skills/Skill%20Level.md) 1 (untrained) in it. Furthermore, you can increase the spell's [skill level](../Skills/Skill%20Level.md) just like any other [skill](../Skills/Skills.md).   
    
-## Aspect of Essence   
-You have begun to learn the secrets of the [magical aspect](../Magic/Aspects%20of%20Magic.md) of *Essence*. You can create and learn spells that require this aspect at a cost of 1 [character point](/not_created.md) to gain [skill level](../Skills/Skill%20Level.md) 1 (untrained) in it. Furthermore, you can increase the spell's [skill level](../Skills/Skill%20Level.md) just like any other [skill](../Skills/Skills.md).   
+## ~~Aspect of Essence~~   
+You have begun to learn the secrets of the [magical aspect](../Magic/Aspects%20of%20Magic.md) of *Essence*. You can create and learn spells that require this aspect at a cost of 1 [character point](/not_created.md) to gain [skill level](../Skills/Skill%20Level.md) 1 (_untrained_) in it. Furthermore, you can increase the spell's [skill level](../Skills/Skill%20Level.md) just like any other [skill](../Skills/Skills.md).   
    
 ## Backstabber (TBD)   
 _Requires melee combat 3 and stealth 3._   
@@ -77,7 +77,7 @@ You gain 1B for any [initiative](../Game%20Modes/Rolling%20Initiative.md) rolls 
 > Alexander drew his wavy black blade and struck before anyone else had time to react.   
    
 ## Fortunate   
-You are luckier than most. Whenever you would normally gain a [fortune point](../Rolling%20Dice/Fortune%20Points.md) through non-magical means, you instead gain two points.   
+You are luckier than most. Whenever you would normally gain a [fortune point](../Rolling%20Dice/Fortune%20Points.md) through non-magical means, you instead gain two [fortune points](../Rolling%20Dice/Fortune%20Points.md).   
    
 ## Heavy Hitter   
 _Requires exertion 3 and melee combat 3._   
@@ -167,7 +167,7 @@ Calculate [sustain](../Magic/Components/Sustain.md) as 1/2 of the [spell dice](.
    
 ## Wild Magic   
 _Free trait. Requires any magical skill 1._   
-Magic is an innate power to you, but it is hard to control. When you cast a spell, you gain 1B to the effect roll, but do so at the cost of 1M for the magical skill roll. Also, a [massive failure](../Rolling%20Dice/Massive%20Failure.md) to cast a spell will cause you [wound](../Conditions/Wound.md) rather than [fatigue](../Conditions/Fatigue.md).   
+Magic is an innate power to you, but it is hard to control. When you cast a spell, you gain 1B to the effect roll, but do so at the cost of 1M for the magical skill roll. Also, a [massive failure](../Rolling%20Dice/Massive%20Failure.md) to cast a spell will cause you a [wound](../Conditions/Wound.md) rather than [fatigue](../Conditions/Fatigue.md).   
    
 If you cast a spell at [skill level](../Skills/Skill%20Level.md) 4 or more, you may chose not to apply the effects of wild magic when casting the spell.   
    
