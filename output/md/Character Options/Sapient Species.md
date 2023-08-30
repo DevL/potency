@@ -14,7 +14,7 @@ Apart from [humans](../Character%20Options/Sapient%20Species/Humans.md) who are 
 	* [Canids](../Character%20Options/Sapient%20Species/Canids.md)   
 	* [Minotaurs](../Character%20Options/Sapient%20Species/Minotaurs.md)   
 	* [Orcs](../Character%20Options/Sapient%20Species/Orcs.md)   
-	* [Satyrs](/not_created.md)   
+	* [Satyrs](../Character%20Options/Sapient%20Species/Satyrs.md)   
 	   
     
    

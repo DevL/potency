@@ -51,7 +51,7 @@ TODO
 | Portation     | Transfer [potential](../Rolling%20Dice/Potential.md)       | Telepathy                   | Teleportation             |   
 | Sunderance    | Hinder ([malus dice](../Rolling%20Dice/Malus%20Dice.md))      | Cause mental damage         | Cause physical damage     |   
    
-## Character Point Cost of the Aspects   
+## ~~Character Point Cost of the Aspects~~   
 Once the seven aspects of magic have been acquired at [skill level](../Skills/Skill%20Level.md) 1 (_untrained_) by taking the [trait](../Character%20Options/Traits.md) _Arcane Initiate_, they can be raised at the same cost as mundane skills.   
    
 > A _Kyreenian Sword Dancer_ could acquire the trait _Arcane Initiate_ and the aspects  _agency_ 2 and _formation_ 2 for 11 character points which is enough for the smallest of boosts. Advancing both to level 3 (+6 points) and grabbing _sunderance_ 3 (+6 points) makes it a total of 23 character points for some rather useful effects.   
