@@ -68,6 +68,12 @@ The base damage for physical damage caused by melee weapons is your [skill level
    
 ## Iron Will   
 _Requires willpower 3._   
+   
+```
+REWORK: Texts and mechanics
+```
+   
+   
 As a reaction, when sustaining [fatigue](../Conditions/Fatigue.md) or [wounds](../Conditions/Wound.md) during a [real time](../Game%20Modes/Real%20Time.md) event, it is possible to temporarily ignore their adverse effects by making a _willpower_ roll against a difficulty of 5 times the combined severity of the sustained conditions, though at least 10.    
    
 Once the [real time](../Game%20Modes/Real%20Time.md) event transitions into another [mode of play](../Game%20Modes/Modes%20of%20Play.md), the effects of the conditions can no longer be ignored.   
@@ -83,14 +89,14 @@ The base damage for physical damage caused by unarmed strikes is your [skill lev
    
 ## Muse   
 _Requires artistry 3._   
-Your artistic talents inspire those around you to great feats. You can use your skill in _artistry_ to [aid](../Rolling%20Dice/Aid.md) someone in their task by making an _artistry_ roll instead of the skill normally used for the task, using the same difficulty.   
+Your artistic talents inspire those around you to great feats. You can [aid](../Rolling%20Dice/Aid.md) someone in their task by making an _artistry_ roll instead of the skill normally used for the task, using the same difficulty.   
    
 > Alexander the bard recites a naughty limerick, invigorating - somewhat against her will - Lilly to pull the ancient lever with enough strength to close the portcullis before the undead horde reaches the party. He rolls a 12 against the difficulty of 10 and thus Lilly gets a bonus die to her _exertion_ roll when she tries to pull the lever with all her might. Had Alexander come up with an even better poem by, say rolling a 15, Lilly would have gained two bonus dice.    
    
 ## Natural Weapons   
 _Requires exertion 3 and unarmed combat 3._   
 Through claws or fists, you are deadly even unarmed.   
-You increase your physical damage caused by unarmed strikes with 1B. If your physical damage already has 3B, your target instead adds 1M to their _resistance_ roll against the damage.   
+You increase your physical damage caused by unarmed strikes with 1B.   
    
 > Aun the minotaur was a peaceful man, always eager to use his extensive skills of healing. However, when he had no choice but to resort to violence, his innate strength subsequently made his skills of healing all the more needed.   
    
