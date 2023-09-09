@@ -2,7 +2,12 @@
 {}
 ---
    
-Each [magical skill](../Magic/Aspects%20of%20Magic.md) represents a form of magic encompassing a set of assigned [magical aspects](../Magic/Aspects%20of%20Magic.md).   
+```
+REWORK: Capabilities and limitations no longer are bound to the concept of magical aspects.
+```
+   
+   
+Each [magical skill](../Magic/Magic.md) represents a form of magic encompassing a set of assigned [magical aspects](../Magic/Magic.md).   
    
 > When creating a form of magic, it is important to work together as player and gamemaster to find a theme that is fun to roleplay and mechanically sound so that it does not break the game. Remember that is always possible to both dial up and dial down the magical powers as long as everyone are in agreement.   
    

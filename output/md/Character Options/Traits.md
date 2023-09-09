@@ -8,7 +8,7 @@ Some traits also have certain prerequisites that needs to be fulfilled before ac
    
 ## Arcana   
 _This trait can be acquired multiple times. Each grants another magical skill._   
-You gain [skill level](../Skills/Skill%20Level.md) 1 (_untrained_) in a [magical skill](../Magic/Aspects%20of%20Magic.md) and can improve it further just like any other [skill](../Skills/Skills.md).   
+You gain [skill level](../Skills/Skill%20Level.md) 1 (_untrained_) in a [magical skill](../Magic/Magic.md) and can improve it further just like any other [skill](../Skills/Skills.md).   
    
 ## Armourer   
 _Requires exertion 3 or crafting 4._   
@@ -135,6 +135,13 @@ After casting a spell, but before resolving its effects, you may spend [potentia
    
 > Lilly sends her swarm of scorching fire towards a group of enemies. The group is large enough to require a spell volume of 3 so she needs to spend 3 additional potential to increase the effect by a bonus die.   
    
+## Riposte   
+_Requires melee combat 3 or unarmed combat 3._   
+   
+> With nerves of steel, you take the opportunity to strike back rather than to parry.   
+   
+When attacked in close combat, you can in lieu of reacting with an active _defence_ roll instead make a _melee combat_ or _unarmed combat_ attack.   
+   
 ## Shield Bearer   
 _Requires exertion 3 or crafting 4._   
    
@@ -143,21 +150,6 @@ _Requires exertion 3 or crafting 4._
 When using a shield, apply the negative conditions from shields that is one grade lighter than the one you are using. Using light shields impose no negative conditions.   
    
 > Laurelle af Marg is a superb warrior, highly skilled in using a shield without it encumbering her. When raising her heater shield emblazoned with the arms of the barony of Brechten, it is as if she was using a small targe. No more does it hinder her.   
-   
-## Small Stature   
-_Free trait. Can only be taken during the first step of character creation._   
-   
-```
-TBD: Remove this trait? How should the fantasy of smallfolk with oversized weapons be handled? GM’s discretion?
-
-+ A step on the way of removing free traits completely.
-```
-   
-   
-You are smaller than most and as such you lack the physicality to wield heavy weapons or shields. On the upside, you are generally harder to hit and therefore receive a [talent](../Character%20Options/Talents.md) in the _defence_ skill for free.   
-   
-> Being a part of the smallfolk, Hilda of Kullsala has always had to limit the arms she bore as a member of the town watch. On the other hand, she was rarely hit when breaking up fights in the sleepy town.    
-   
 ## Sustainable Spells   
 _Requires any magical skill 3._   
 When [sustaining](../Magic/Components/Sustain.md) a spell, you expend less [potential](../Rolling%20Dice/Potential.md) than other casters.    
@@ -166,17 +158,10 @@ Calculate [sustain](../Magic/Components/Sustain.md) as 1/2 of the [spell dice](.
 > Lilly is sustaining a spell that was cast using 6 spell dice. Normally it would take 4P to sustain it during subsequent rounds, but her Sustainable Spells trait reduces it to 3P.   
    
 ## Wild Magic   
-_Free trait. Requires any magical skill 1._   
-   
-```
-TBD: Include learning a spell which drops the requirement and makes this no longer a free trait.
-```
-   
-   
 > Magic is an innate power to you, but it is hard to control.   
    
-When you cast any spell, you gain 1B to the effect roll, but do so at the cost of 1M for the magical skill roll. Also, a [massive failure](../Rolling%20Dice/Massive%20Failure.md) to cast a spell will cause you a [wound](../Conditions/Wound.md) rather than [fatigue](../Conditions/Fatigue.md).   
+You learn a [magical skill](../Magic/Magic.md). In addition, when you cast any [spell](../Magic/Spells%20and%20Magical%20Effects.md), you gain 1B to the effect roll, but do so at the cost of 1M for the [magical skill](../Magic/Magic.md) roll. Also, a [massive failure](../Rolling%20Dice/Massive%20Failure.md) to cast a spell will cause you a [wound](../Conditions/Wound.md) rather than [fatigue](../Conditions/Fatigue.md).   
    
-If you cast a spell at [skill level](../Skills/Skill%20Level.md) 4 or more, you may chose not to apply the effects of wild magic when casting the spell.   
+If you cast a spell at [skill level](../Skills/Skill%20Level.md) 4 (_skilled_) or more, you may chose not to apply the effects of wild magic when casting the spell.   
    
 > Lilly grew up setting things ablaze a bit too often. With time she has mostly mastered the art of magic without causing too much collateral damage.

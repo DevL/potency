@@ -31,7 +31,7 @@
 		* [Physical Skills](./Skills/Physical%20Skills.md)   
 		* [Practical Skills](./Skills/Practical%20Skills.md)   
 		* [Social Skills](./Skills/Social%20Skills.md)   
-	* [Aspects of Magic](./Magic/Aspects%20of%20Magic.md)   
+	* [Magic](./Magic/Magic.md)   
 * [Aid](./Rolling%20Dice/Aid.md)   
 * Character Options   
 	* [Creating a Character](./Character%20Options/Creating%20a%20Character.md)   
