@@ -5,7 +5,7 @@
         <head>
                 <!-- Page information -->
                 <meta charset="UTF-8" />
-                <meta name="node_id" content="social skills">
+                <meta name="node_id" content="physical skills">
                 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
                 <link rel="shortcut icon" href="/potency/favicon.ico" />
 
@@ -47,9 +47,9 @@
 
                 <!-- Onload tweaks -->
                 <script>
-                        const CURRENT_NODE = 'social skills';
+                        const CURRENT_NODE = 'physical skills';
                         const HTML_URL_PREFIX = '/potency';
-                        const PAGE_DEPTH = 1;
+                        const PAGE_DEPTH = 2;
                 </script>
         </head>
 
@@ -171,7 +171,7 @@
             }
         </script>
                                     <div class="graph_header_div requires_js">
-            <a id="graph_link" class="system-link" href="/potency/obs.html/graph/index.html?node=social skills" title="Open fullpage Graph">
+            <a id="graph_link" class="system-link" href="/potency/obs.html/graph/index.html?node=physical skills" title="Open fullpage Graph">
                     <img class="graph_header_div_svg" src = "/potency/obs.html/static/graph.svg" alt="Open fullpage Graph" style="margin: 2px; width: 17px;"/>
             </a>
         </div>
@@ -347,16 +347,21 @@
 </div>
 <button id="folder-13" class="dir-button" onclick="toggle_dir(this.id)">Skills</button>
 <div id="folder-container-13" class="dir-container requires_js active" path="/potency/Skills">
+	<button id="folder-14" class="dir-button" onclick="toggle_dir(this.id)">Mundane Skills</button>
+	<div id="folder-container-14" class="dir-container requires_js active" path="/potency/Skills/Mundane Skills">
+		<ul class="dir-list">
+			<li><a class="" href="/potency/Skills/Mundane Skills/Combat Skills.html"  >Combat Skills</a></li>
+			<li><a class="" href="/potency/Skills/Mundane Skills/Intellectual Skills.html"  >Intellectual Skills</a></li>
+			<li><a class="active" href="/potency/Skills/Mundane Skills/Physical Skills.html"  >Physical Skills</a></li>
+			<li><a class="" href="/potency/Skills/Mundane Skills/Practical Skills.html"  >Practical Skills</a></li>
+			<li><a class="" href="/potency/Skills/Mundane Skills/Social Skills.html"  >Social Skills</a></li>
+		</ul>
+	</div>
 	<ul class="dir-list">
-		<li><a class="" href="/potency/Skills/Combat Skills.html"  >Combat Skills</a></li>
 		<li><a class="" href="/potency/Skills/Extraordinary Skills.html"  >Extraordinary Skills</a></li>
-		<li><a class="" href="/potency/Skills/Intellectual Skills.html"  >Intellectual Skills</a></li>
 		<li><a class="" href="/potency/Skills/Mundane Skills.html"  >Mundane Skills</a></li>
-		<li><a class="" href="/potency/Skills/Physical Skills.html"  >Physical Skills</a></li>
-		<li><a class="" href="/potency/Skills/Practical Skills.html"  >Practical Skills</a></li>
 		<li><a class="" href="/potency/Skills/Skill Level.html"  >Skill Level</a></li>
 		<li><a class="" href="/potency/Skills/Skills.html"  >Skills</a></li>
-		<li><a class="active" href="/potency/Skills/Social Skills.html"  >Social Skills</a></li>
 	</ul>
 </div>
 <ul class="dir-list">
@@ -367,15 +372,20 @@
     </div>
 </div>
                         <div class="container">
-                                <embeddedtitle>Social Skills</embeddedtitle>
-<div class="content"><h2 id="deception">Deception</h2>
-<p>Tricking someone into believing or acting the way one wish.   </p>
-<h2 id="intimidation">Intimidation</h2>
-<p>Coercing someone to act the way one wish   </p>
-<h2 id="persuasion">Persuasion</h2>
-<p>Convincing someone, without coercion, to think or act the way one wish.   </p>
-<h2 id="streetwise">Streetwise</h2>
-<p>Knowing one’s way around in an urban environment. Could be likened to <em>survival</em> for cities.</p></div>
+                                <embeddedtitle>Physical Skills</embeddedtitle>
+<div class="content"><h2 id="exertion">Exertion</h2>
+<p>The ability to use one’s physical strength and athleticism. Used for lifting or pulling heavy objects, holding a door that foes are trying to brake through, or for pulling oneself up a ledge.   </p>
+<h2 id="movement">Movement</h2>
+<p>A measure of speed, agility, and mobility. Used for climbing a wall, moving swiftly over broken terrain without tripping, or to act before anyone else.    </p>
+<p>Also used to determine initiative order. See <a href="/potency/Game%20Modes/Rolling%20Initiative.html">Rolling Initiative</a>.   </p>
+<h2 id="perception">Perception</h2>
+<p>Awareness and keenness of senses, though not a panacea for finding out all conceivable things. Walking down a corridor and noticing a draft might inform you that there is a hidden door and where it is. Understanding how to open it, e.g. by rotating a certain wall lamp a quarter turn would require an <em>investigation</em> roll.   </p>
+<h2 id="resistance">Resistance</h2>
+<p>In combat, the skill to use to avoid sustaining damage. Outside combat, used to avoid sustaining various conditions by environmental and situational factors such as walking through a desert, being exposed to a poison, and so forth.   </p>
+<h2 id="stealth">Stealth</h2>
+<p>The ability to avoid detection. Always situational as no matter one’s skill to hide or move without noise, if there are no shadows or nothing to hide behind one will be noticed.   </p>
+<h2 id="sleight-of-hand">Sleight of Hand</h2>
+<p>Used for all kinds of tasks requiring dexterous and nimble fingers, be it picking a lock or picking a pocket.</p></div>
 <div class="note-footer">
 <div class="backlinks">
 <h2>Backlinks</h2>
@@ -391,13 +401,13 @@
 
 </div>
 <div class="graph requires_js ">
-    <div id="A2913499359480984082576524491318735048{level}" class="graph_div"></div>
+    <div id="A274643461690269798840900293839921491143{level}" class="graph_div"></div>
     
     <div class="graph-button-row" style="display:flex;">
-        <button class="graph_button graph_show_button" id="B2913499359480984082576524491318735048{level}" level="{level}" note_temp_id="2913499359480984082576524491318735048" onclick="window.ObsHtmlGraph.run(this, '2913499359480984082576524491318735048', 'social skills');">
+        <button class="graph_button graph_show_button" id="B274643461690269798840900293839921491143{level}" level="{level}" note_temp_id="274643461690269798840900293839921491143" onclick="window.ObsHtmlGraph.run(this, '274643461690269798840900293839921491143', 'physical skills');">
             Show Graph
         </button>
-        <button class="graph_button graph_type_button" id="C2913499359480984082576524491318735048{level}" style="flex:1" onclick="window.ObsHtmlGraph.switch_graph_type(this);">
+        <button class="graph_button graph_type_button" id="C274643461690269798840900293839921491143{level}" style="flex:1" onclick="window.ObsHtmlGraph.switch_graph_type(this);">
             2D
         </button>
     </div>

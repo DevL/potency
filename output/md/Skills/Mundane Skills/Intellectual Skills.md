@@ -6,7 +6,7 @@ aliases: intellectual skill, intellectual skills
 Creating and operating mechanical devices, including setting and disarming traps.     
    
 ## Healing   
-Used for [treating](../Conditions/Treatment.md) various [conditions](../Conditions/Conditions.md) as well as to perform various medical investigations.   
+Used for [treating](../../Conditions/Treatment.md) various [conditions](../../Conditions/Conditions.md) as well as to perform various medical investigations.   
    
 ## Investigation   
 Understanding how to open a previously discovered hidden door , e.g. by rotating a certain wall lamp a quarter turn would require an _investigation_ roll.   

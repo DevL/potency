@@ -8,7 +8,7 @@ The ability to use one’s physical strength and athleticism. Used for lifting o
 ## Movement   
 A measure of speed, agility, and mobility. Used for climbing a wall, moving swiftly over broken terrain without tripping, or to act before anyone else.    
    
-Also used to determine initiative order. See [Rolling Initiative](../Game%20Modes/Rolling%20Initiative.md).   
+Also used to determine initiative order. See [Rolling Initiative](../../Game%20Modes/Rolling%20Initiative.md).   
    
 ## Perception   
 Awareness and keenness of senses, though not a panacea for finding out all conceivable things. Walking down a corridor and noticing a draft might inform you that there is a hidden door and where it is. Understanding how to open it, e.g. by rotating a certain wall lamp a quarter turn would require an _investigation_ roll.   
