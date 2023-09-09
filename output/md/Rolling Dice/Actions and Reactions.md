@@ -7,4 +7,6 @@ During their [turn](../Game%20Modes/Turns.md), an [actor](../Rolling%20Dice/Acto
 > Draggomir performs an action during his turn by smashing his hammer against the bandit using the _melee combat_ skill. The bandit can react by making a _defence_ roll to avoid being hit. As it is not the bandit's turn, the bandit cannot perform other actions.   
    
 ## Example Reactions   
-A reaction can
+```
+TODO: Detail attacks of opportunity.
+```
